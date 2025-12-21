@@ -1,0 +1,8926 @@
+{
+  "id": "financial",
+  "name": {
+    "en": "Finance",
+    "zh": "金融"
+  },
+  "terms": [
+    {
+      "source": "1%/10 Net 30",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "10-K",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "10-Q SEC Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "10-Year Treasury Note",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "1040 IRS Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "1040A Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "1040EZ Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "11th District Cost of Funds Index (COFI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "COFI"
+    },
+    {
+      "source": "12B-1 Fee",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "183-Day Rule",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "30-Year Treasury",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "401(a) Plan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "a"
+    },
+    {
+      "source": "401(k) Plan",
+      "target": {
+        "zh": "401(k)计划",
+        "ja": "401(k)プラン",
+        "ko": "401(k) 플랜",
+        "fr": "Plan 401(k)",
+        "de": "401(k)-Plan",
+        "es": "Plan 401(k)",
+        "it": "Piano 401(k)",
+        "pt": "Plano 401(k)",
+        "ru": "План 401(k)"
+      },
+      "description": "",
+      "abbreviation": "k"
+    },
+    {
+      "source": "403(b) Plan",
+      "target": {
+        "zh": "403(b)计划",
+        "ja": "403(b)プラン",
+        "ko": "403(b) 플랜",
+        "fr": "Plan 403(b)",
+        "de": "403(b)-Plan",
+        "es": "Plan 403(b)",
+        "it": "Piano 403(b)",
+        "pt": "Plano 403(b)",
+        "ru": "План 403(b)"
+      },
+      "description": "",
+      "abbreviation": "b"
+    },
+    {
+      "source": "457 Plan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "5/1 Hybrid Adjustable-Rate Mortgage (5/1 Hybrid ARM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "5/1 Hybrid ARM"
+    },
+    {
+      "source": "501(c)(3) Organizations",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "c"
+    },
+    {
+      "source": "52-Week High/Low",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "529 Plan",
+      "target": {
+        "zh": "529计划",
+        "ja": "529プラン",
+        "ko": "529 플랜",
+        "fr": "Plan 529",
+        "de": "529-Plan",
+        "es": "Plan 529",
+        "it": "Piano 529",
+        "pt": "Plano 529",
+        "ru": "План 529"
+      },
+      "description": ""
+    },
+    {
+      "source": "8-K (Form 8K)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Form 8K"
+    },
+    {
+      "source": "80-20 Rule",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "83(b) Election",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "b"
+    },
+    {
+      "source": "Absolute Advantage",
+      "target": {
+        "zh": "绝对优势",
+        "ja": "絶対優位",
+        "ko": "절대 우위",
+        "fr": "Avantage absolu",
+        "de": "Absoluter Vorteil",
+        "es": "Ventaja absoluta",
+        "it": "Vantaggio assoluto",
+        "pt": "Vantagem absoluta",
+        "ru": "Абсолютное преимущество"
+      },
+      "description": ""
+    },
+    {
+      "source": "Accounting Equation",
+      "target": {
+        "zh": "会计等式",
+        "ja": "会計等式",
+        "ko": "회계 방정식",
+        "fr": "Équation comptable",
+        "de": "Bilanzgleichung",
+        "es": "Ecuación contable",
+        "it": "Equazione contabile",
+        "pt": "Equação contábil",
+        "ru": "Бухгалтерское уравнение"
+      },
+      "description": ""
+    },
+    {
+      "source": "Accounting Rate of Return (ARR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ARR"
+    },
+    {
+      "source": "Acid-Test Ratio",
+      "target": {
+        "zh": "速动比率",
+        "ja": "当座比率",
+        "ko": "당좌비율",
+        "fr": "Ratio de liquidité immédiate",
+        "de": "Liquiditätsquote",
+        "es": "Ratio de liquidez inmediata",
+        "it": "Indice di liquidità immediata",
+        "pt": "Índice de liquidez imediata",
+        "ru": "Коэффициент быстрой ликвидности"
+      },
+      "description": ""
+    },
+    {
+      "source": "Acquisition",
+      "target": {
+        "zh": "收购",
+        "ja": "買収",
+        "ko": "인수",
+        "fr": "Acquisition",
+        "de": "Akquisition",
+        "es": "Adquisición",
+        "it": "Acquisizione",
+        "pt": "Aquisição",
+        "ru": "Приобретение"
+      },
+      "description": ""
+    },
+    {
+      "source": "Adverse Selection",
+      "target": {
+        "zh": "逆向选择",
+        "ja": "逆選択",
+        "ko": "역선택",
+        "fr": "Sélection adverse",
+        "de": "Adverse Selektion",
+        "es": "Selección adversa",
+        "it": "Selezione avversa",
+        "pt": "Seleção adversa",
+        "ru": "Неблагоприятный отбор"
+      },
+      "description": ""
+    },
+    {
+      "source": "After-Hours Trading",
+      "target": {
+        "zh": "盘后交易",
+        "ja": "時間外取引",
+        "ko": "시간외 거래",
+        "fr": "Négociation après heures",
+        "de": "Nachbörslicher Handel",
+        "es": "Negociación fuera de horario",
+        "it": "Trading fuori orario",
+        "pt": "Negociação após o horário",
+        "ru": "Внебиржевая торговля"
+      },
+      "description": ""
+    },
+    {
+      "source": "Alpha",
+      "target": {
+        "zh": "阿尔法",
+        "ja": "アルファ",
+        "ko": "알파",
+        "fr": "Alpha",
+        "de": "Alpha",
+        "es": "Alfa",
+        "it": "Alfa",
+        "pt": "Alfa",
+        "ru": "Альфа"
+      },
+      "description": ""
+    },
+    {
+      "source": "Amalgamation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "American Depositary Receipt (ADR)",
+      "target": {
+        "zh": "美国存托凭证",
+        "ja": "米国預託証券",
+        "ko": "미국 예탁증권",
+        "fr": "Certificat de dépôt américain",
+        "de": "American Depositary Receipt",
+        "es": "Certificado de depósito estadounidense",
+        "it": "Certificato di deposito americano",
+        "pt": "Certificado de depósito americano",
+        "ru": "Американская депозитарная расписка"
+      },
+      "description": "",
+      "abbreviation": "ADR"
+    },
+    {
+      "source": "American Dream",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Analysis of Variance (ANOVA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ANOVA"
+    },
+    {
+      "source": "Angel Investor",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Annual Percentage Rate (APR)",
+      "target": {
+        "zh": "年化利率",
+        "ja": "年利",
+        "ko": "연이율",
+        "fr": "Taux annuel effectif global",
+        "de": "Jahreszins",
+        "es": "Tasa anual equivalente",
+        "it": "Tasso annuo effettivo globale",
+        "pt": "Taxa anual efetiva",
+        "ru": "Годовая процентная ставка"
+      },
+      "description": "",
+      "abbreviation": "APR"
+    },
+    {
+      "source": "Annuity",
+      "target": {
+        "zh": "年金",
+        "ja": "年金",
+        "ko": "연금",
+        "fr": "Rente",
+        "de": "Rente",
+        "es": "Anualidad",
+        "it": "Rendita",
+        "pt": "Anuidade",
+        "ru": "Аннуитет"
+      },
+      "description": ""
+    },
+    {
+      "source": "Applicable Federal Rate (AFR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "AFR"
+    },
+    {
+      "source": "Artificial Intelligence (AI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "AI"
+    },
+    {
+      "source": "Asset",
+      "target": {
+        "zh": "资产",
+        "ja": "資産",
+        "ko": "자산",
+        "fr": "Actif",
+        "de": "Vermögenswert",
+        "es": "Activo",
+        "it": "Attività",
+        "pt": "Ativo",
+        "ru": "Актив"
+      },
+      "description": ""
+    },
+    {
+      "source": "Asset Management",
+      "target": {
+        "zh": "资产管理",
+        "ja": "資産運用",
+        "ko": "자산 관리",
+        "fr": "Gestion d'actifs",
+        "de": "Vermögensverwaltung",
+        "es": "Gestión de activos",
+        "it": "Gestione patrimoniale",
+        "pt": "Gestão de ativos",
+        "ru": "Управление активами"
+      },
+      "description": ""
+    },
+    {
+      "source": "Asset Turnover Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Assets Under Management (AUM)",
+      "target": {
+        "zh": "管理资产规模",
+        "ja": "運用資産",
+        "ko": "운용 자산",
+        "fr": "Actifs sous gestion",
+        "de": "Verwaltetes Vermögen",
+        "es": "Activos bajo gestión",
+        "it": "Patrimonio gestito",
+        "pt": "Ativos sob gestão",
+        "ru": "Активы под управлением"
+      },
+      "description": "",
+      "abbreviation": "AUM"
+    },
+    {
+      "source": "Automated Clearing House (ACH)",
+      "target": {
+        "zh": "自动清算所",
+        "ja": "自動決済機関",
+        "ko": "자동 결제 기관",
+        "fr": "Chambre de compensation automatisée",
+        "de": "Automatisierte Clearingstelle",
+        "es": "Cámara de compensación automatizada",
+        "it": "Camera di compensazione automatizzata",
+        "pt": "Câmara de compensação automatizada",
+        "ru": "Автоматизированная расчетная палата"
+      },
+      "description": "",
+      "abbreviation": "ACH"
+    },
+    {
+      "source": "Automated Teller Machine (ATM)",
+      "target": {
+        "zh": "自动取款机",
+        "ja": "現金自動預払機",
+        "ko": "현금 자동 입출금기",
+        "fr": "Distributeur automatique de billets",
+        "de": "Geldautomat",
+        "es": "Cajero automático",
+        "it": "Bancomat",
+        "pt": "Caixa eletrônico",
+        "ru": "Банкомат"
+      },
+      "description": "",
+      "abbreviation": "ATM"
+    },
+    {
+      "source": "Average True Range (ATR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ATR"
+    },
+    {
+      "source": "Balance Sheet",
+      "target": {
+        "zh": "资产负债表",
+        "ja": "貸借対照表",
+        "ko": "대차대조표",
+        "fr": "Bilan",
+        "de": "Bilanz",
+        "es": "Balance general",
+        "it": "Stato patrimoniale",
+        "pt": "Balanço patrimonial",
+        "ru": "Балансовый отчет"
+      },
+      "description": ""
+    },
+    {
+      "source": "Balanced Scorecard",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bank Identification Numbers",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bankruptcy",
+      "target": {
+        "zh": "破产",
+        "ja": "破産",
+        "ko": "파산",
+        "fr": "Faillite",
+        "de": "Insolvenz",
+        "es": "Quiebra",
+        "it": "Fallimento",
+        "pt": "Falência",
+        "ru": "Банкротство"
+      },
+      "description": ""
+    },
+    {
+      "source": "Baye's Theorem",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bear Market",
+      "target": {
+        "zh": "熊市",
+        "ja": "弱気相場",
+        "ko": "약세 시장",
+        "fr": "Marché baissier",
+        "de": "Bärenmarkt",
+        "es": "Mercado bajista",
+        "it": "Mercato ribassista",
+        "pt": "Mercado em baixa",
+        "ru": "Медвежий рынок"
+      },
+      "description": ""
+    },
+    {
+      "source": "Berkshire Hathaway",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bernie Madoff",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Beta",
+      "target": {
+        "zh": "贝塔",
+        "ja": "ベータ",
+        "ko": "베타",
+        "fr": "Bêta",
+        "de": "Beta",
+        "es": "Beta",
+        "it": "Beta",
+        "pt": "Beta",
+        "ru": "Бета"
+      },
+      "description": ""
+    },
+    {
+      "source": "Bill of Lading",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bitcoin Mining",
+      "target": {
+        "zh": "比特币挖矿",
+        "ja": "ビットコイン採掘",
+        "ko": "비트코인 채굴",
+        "fr": "Minage de Bitcoin",
+        "de": "Bitcoin-Mining",
+        "es": "Minería de Bitcoin",
+        "it": "Estrazione di Bitcoin",
+        "pt": "Mineração de Bitcoin",
+        "ru": "Майнинг биткоина"
+      },
+      "description": ""
+    },
+    {
+      "source": "Blockchain",
+      "target": {
+        "zh": "区块链",
+        "ja": "ブロックチェーン",
+        "ko": "블록체인",
+        "fr": "Blockchain",
+        "de": "Blockchain",
+        "es": "Cadena de bloques",
+        "it": "Blockchain",
+        "pt": "Blockchain",
+        "ru": "Блокчейн"
+      },
+      "description": ""
+    },
+    {
+      "source": "Bollinger Band",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Bond",
+      "target": {
+        "zh": "债券",
+        "ja": "債券",
+        "ko": "채권",
+        "fr": "Obligation",
+        "de": "Anleihe",
+        "es": "Bono",
+        "it": "Obbligazione",
+        "pt": "Título",
+        "ru": "Облигация"
+      },
+      "description": ""
+    },
+    {
+      "source": "Break-Even Analysis",
+      "target": {
+        "zh": "盈亏平衡分析",
+        "ja": "損益分岐点分析",
+        "ko": "손익분기점 분석",
+        "fr": "Analyse du seuil de rentabilité",
+        "de": "Break-Even-Analyse",
+        "es": "Análisis de punto de equilibrio",
+        "it": "Analisi del punto di pareggio",
+        "pt": "Análise de ponto de equilíbrio",
+        "ru": "Анализ безубыточности"
+      },
+      "description": ""
+    },
+    {
+      "source": "Brexit",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Budget",
+      "target": {
+        "zh": "预算",
+        "ja": "予算",
+        "ko": "예산",
+        "fr": "Budget",
+        "de": "Haushalt",
+        "es": "Presupuesto",
+        "it": "Bilancio",
+        "pt": "Orçamento",
+        "ru": "Бюджет"
+      },
+      "description": ""
+    },
+    {
+      "source": "Budget Deficit",
+      "target": {
+        "zh": "预算赤字",
+        "ja": "財政赤字",
+        "ko": "예산 적자",
+        "fr": "Déficit budgétaire",
+        "de": "Haushaltsdefizit",
+        "es": "Déficit presupuestario",
+        "it": "Deficit di bilancio",
+        "pt": "Déficit orçamentário",
+        "ru": "Бюджетный дефицит"
+      },
+      "description": ""
+    },
+    {
+      "source": "Bull Market",
+      "target": {
+        "zh": "牛市",
+        "ja": "強気相場",
+        "ko": "강세 시장",
+        "fr": "Marché haussier",
+        "de": "Bullenmarkt",
+        "es": "Mercado alcista",
+        "it": "Mercato rialzista",
+        "pt": "Mercado em alta",
+        "ru": "Бычий рынок"
+      },
+      "description": ""
+    },
+    {
+      "source": "Business Cycle",
+      "target": {
+        "zh": "商业周期",
+        "ja": "景気循環",
+        "ko": "경기 순환",
+        "fr": "Cycle économique",
+        "de": "Konjunkturzyklus",
+        "es": "Ciclo económico",
+        "it": "Ciclo economico",
+        "pt": "Ciclo econômico",
+        "ru": "Экономический цикл"
+      },
+      "description": ""
+    },
+    {
+      "source": "Business Ethics",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Business Model",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Business Valuation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Business-to-Consumer",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Capital",
+      "target": {
+        "zh": "资本",
+        "ja": "資本",
+        "ko": "자본",
+        "fr": "Capital",
+        "de": "Kapital",
+        "es": "Capital",
+        "it": "Capitale",
+        "pt": "Capital",
+        "ru": "Капитал"
+      },
+      "description": ""
+    },
+    {
+      "source": "Capital Asset Pricing Model (CAPM)",
+      "target": {
+        "zh": "资本资产定价模型",
+        "ja": "資本資産価格モデル",
+        "ko": "자본자산 가격결정 모형",
+        "fr": "Modèle d'évaluation des actifs financiers",
+        "de": "Capital Asset Pricing Model",
+        "es": "Modelo de valoración de activos de capital",
+        "it": "Modello di determinazione del prezzo delle attività di capitale",
+        "pt": "Modelo de precificação de ativos de capital",
+        "ru": "Модель оценки капитальных активов"
+      },
+      "description": "",
+      "abbreviation": "CAPM"
+    },
+    {
+      "source": "Capital Expenditure",
+      "target": {
+        "zh": "资本支出",
+        "ja": "設備投資",
+        "ko": "자본 지출",
+        "fr": "Dépenses en capital",
+        "de": "Investitionsausgaben",
+        "es": "Gasto de capital",
+        "it": "Spese in conto capitale",
+        "pt": "Despesa de capital",
+        "ru": "Капитальные расходы"
+      },
+      "description": ""
+    },
+    {
+      "source": "Capitalism",
+      "target": {
+        "zh": "资本主义",
+        "ja": "資本主義",
+        "ko": "자본주의",
+        "fr": "Capitalisme",
+        "de": "Kapitalismus",
+        "es": "Capitalismo",
+        "it": "Capitalismo",
+        "pt": "Capitalismo",
+        "ru": "Капитализм"
+      },
+      "description": ""
+    },
+    {
+      "source": "Central Limit Theorem (CLT)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CLT"
+    },
+    {
+      "source": "Chartered Financial Analyst (CFA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CFA"
+    },
+    {
+      "source": "Chief Executive Officer (CEO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CEO"
+    },
+    {
+      "source": "Code of Ethics",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Coefficient of Variation (CV)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CV"
+    },
+    {
+      "source": "Collateral",
+      "target": {
+        "zh": "抵押品",
+        "ja": "担保",
+        "ko": "담보",
+        "fr": "Garantie",
+        "de": "Sicherheit",
+        "es": "Garantía",
+        "it": "Garanzia",
+        "pt": "Garantia",
+        "ru": "Залог"
+      },
+      "description": ""
+    },
+    {
+      "source": "Command Economy",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Comparative Advantage",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Compound Annual Growth Rate (CAGR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CAGR"
+    },
+    {
+      "source": "Compound Interest",
+      "target": {
+        "zh": "复利",
+        "ja": "複利",
+        "ko": "복리",
+        "fr": "Intérêts composés",
+        "de": "Zinseszins",
+        "es": "Interés compuesto",
+        "it": "Interesse composto",
+        "pt": "Juros compostos",
+        "ru": "Сложные проценты"
+      },
+      "description": ""
+    },
+    {
+      "source": "Conflict Theory",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Consumer Price Index (CPI)",
+      "target": {
+        "zh": "消费者物价指数",
+        "ja": "消費者物価指数",
+        "ko": "소비자 물가 지수",
+        "fr": "Indice des prix à la consommation",
+        "de": "Verbraucherpreisindex",
+        "es": "Índice de precios al consumidor",
+        "it": "Indice dei prezzi al consumo",
+        "pt": "Índice de preços ao consumidor",
+        "ru": "Индекс потребительских цен"
+      },
+      "description": "",
+      "abbreviation": "CPI"
+    },
+    {
+      "source": "Contribution Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Correlation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Correlation Coefficient",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Cost of Goods Sold (COGS)",
+      "target": {
+        "zh": "销售成本",
+        "ja": "売上原価",
+        "ko": "매출원가",
+        "fr": "Coût des marchandises vendues",
+        "de": "Wareneinsatz",
+        "es": "Costo de bienes vendidos",
+        "it": "Costo del venduto",
+        "pt": "Custo das mercadorias vendidas",
+        "ru": "Себестоимость проданных товаров"
+      },
+      "description": "",
+      "abbreviation": "COGS"
+    },
+    {
+      "source": "Creative Destruction",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Credit Default Swap (CDS)",
+      "target": {
+        "zh": "信用违约互换",
+        "ja": "クレジットデフォルトスワップ",
+        "ko": "신용부도스왑",
+        "fr": "Échange sur défaillance de crédit",
+        "de": "Credit Default Swap",
+        "es": "Permuta de incumplimiento crediticio",
+        "it": "Credit default swap",
+        "pt": "Swap de inadimplência de crédito",
+        "ru": "Кредитный дефолтный своп"
+      },
+      "description": "",
+      "abbreviation": "CDS"
+    },
+    {
+      "source": "Current Ratio",
+      "target": {
+        "zh": "流动比率",
+        "ja": "流動比率",
+        "ko": "유동비율",
+        "fr": "Ratio de liquidité générale",
+        "de": "Liquiditätsgrad",
+        "es": "Ratio de liquidez corriente",
+        "it": "Indice di liquidità corrente",
+        "pt": "Índice de liquidez corrente",
+        "ru": "Коэффициент текущей ликвидности"
+      },
+      "description": ""
+    },
+    {
+      "source": "Customer Service",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Days Payable Outstanding (DPO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DPO"
+    },
+    {
+      "source": "Days Sales Outstanding (DSO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DSO"
+    },
+    {
+      "source": "Debenture",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Debt Ratio",
+      "target": {
+        "zh": "负债率",
+        "ja": "負債比率",
+        "ko": "부채 비율",
+        "fr": "Ratio d'endettement",
+        "de": "Verschuldungsgrad",
+        "es": "Ratio de endeudamiento",
+        "it": "Indice di indebitamento",
+        "pt": "Índice de endividamento",
+        "ru": "Коэффициент задолженности"
+      },
+      "description": ""
+    },
+    {
+      "source": "Debt-Service Coverage Ratio (DSCR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DSCR"
+    },
+    {
+      "source": "Debt-to-Equity Ratio (D/E)",
+      "target": {
+        "zh": "负债权益比",
+        "ja": "負債資本比率",
+        "ko": "부채비율",
+        "fr": "Ratio d'endettement",
+        "de": "Verschuldungsgrad",
+        "es": "Ratio de endeudamiento",
+        "it": "Indice di indebitamento",
+        "pt": "Índice de endividamento",
+        "ru": "Коэффициент долг/собственный капитал"
+      },
+      "description": "",
+      "abbreviation": "D/E"
+    },
+    {
+      "source": "Deferred Compensation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Delivered Duty Paid (DDP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DDP"
+    },
+    {
+      "source": "Delivered Duty Unpaid (DDU)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DDU"
+    },
+    {
+      "source": "Delivered-at-Place (DAP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "DAP"
+    },
+    {
+      "source": "Demand",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Demand Elasticity",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Demonetization",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Derivative",
+      "target": {
+        "zh": "衍生品",
+        "ja": "デリバティブ",
+        "ko": "파생상품",
+        "fr": "Produit dérivé",
+        "de": "Derivat",
+        "es": "Derivado",
+        "it": "Derivato",
+        "pt": "Derivativo",
+        "ru": "Производный инструмент"
+      },
+      "description": ""
+    },
+    {
+      "source": "Dilution",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Disbursement",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Discount Rate",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Diversification",
+      "target": {
+        "zh": "分散投资",
+        "ja": "分散投資",
+        "ko": "분산 투자",
+        "fr": "Diversification",
+        "de": "Diversifikation",
+        "es": "Diversificación",
+        "it": "Diversificazione",
+        "pt": "Diversificação",
+        "ru": "Диверсификация"
+      },
+      "description": ""
+    },
+    {
+      "source": "Dividend",
+      "target": {
+        "zh": "股息",
+        "ja": "配当",
+        "ko": "배당금",
+        "fr": "Dividende",
+        "de": "Dividende",
+        "es": "Dividendo",
+        "it": "Dividendo",
+        "pt": "Dividendo",
+        "ru": "Дивиденд"
+      },
+      "description": ""
+    },
+    {
+      "source": "Dividend Payout Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Dividend Yield",
+      "target": {
+        "zh": "股息率",
+        "ja": "配当利回り",
+        "ko": "배당 수익률",
+        "fr": "Rendement du dividende",
+        "de": "Dividendenrendite",
+        "es": "Rendimiento por dividendo",
+        "it": "Rendimento da dividendo",
+        "pt": "Rendimento de dividendos",
+        "ru": "Дивидендная доходность"
+      },
+      "description": ""
+    },
+    {
+      "source": "Dow Jones Industrial Average (DJIA)",
+      "target": {
+        "zh": "道琼斯工业平均指数",
+        "ja": "ダウ平均株価",
+        "ko": "다우존스 산업평균지수",
+        "fr": "Moyenne industrielle Dow Jones",
+        "de": "Dow Jones Industrial Average",
+        "es": "Promedio Industrial Dow Jones",
+        "it": "Media industriale Dow Jones",
+        "pt": "Média Industrial Dow Jones",
+        "ru": "Промышленный индекс Доу-Джонса"
+      },
+      "description": "",
+      "abbreviation": "DJIA"
+    },
+    {
+      "source": "DuPont Analysis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Due Diligence",
+      "target": {
+        "zh": "尽职调查",
+        "ja": "デューデリジェンス",
+        "ko": "실사",
+        "fr": "Diligence raisonnable",
+        "de": "Due Diligence",
+        "es": "Debida diligencia",
+        "it": "Due diligence",
+        "pt": "Due diligence",
+        "ru": "Дью дилидженс"
+      },
+      "description": ""
+    },
+    {
+      "source": "EBITA",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Earnest Money",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Earnings Before Interest and Taxes (EBIT)",
+      "target": {
+        "zh": "息税前利润",
+        "ja": "営業利益",
+        "ko": "영업이익",
+        "fr": "Bénéfice avant intérêts et impôts",
+        "de": "Ergebnis vor Zinsen und Steuern",
+        "es": "Beneficios antes de intereses e impuestos",
+        "it": "Utile prima degli interessi e delle imposte",
+        "pt": "Lucro antes de juros e impostos",
+        "ru": "Прибыль до вычета процентов и налогов"
+      },
+      "description": "",
+      "abbreviation": "EBIT"
+    },
+    {
+      "source": "Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA)",
+      "target": {
+        "zh": "息税折旧摊销前利润",
+        "ja": "EBITDA",
+        "ko": "EBITDA",
+        "fr": "Bénéfice avant intérêts, impôts, dépréciation et amortissement",
+        "de": "Ergebnis vor Zinsen, Steuern und Abschreibungen",
+        "es": "Beneficios antes de intereses, impuestos, depreciación y amortización",
+        "it": "Utile prima di interessi, imposte, ammortamenti e svalutazioni",
+        "pt": "Lucro antes de juros, impostos, depreciação e amortização",
+        "ru": "Прибыль до вычета процентов, налогов, износа и амортизации"
+      },
+      "description": "",
+      "abbreviation": "EBITDA"
+    },
+    {
+      "source": "Earnings Per Share (EPS)",
+      "target": {
+        "zh": "每股收益",
+        "ja": "1株当たり利益",
+        "ko": "주당 순이익",
+        "fr": "Bénéfice par action",
+        "de": "Gewinn je Aktie",
+        "es": "Beneficio por acción",
+        "it": "Utile per azione",
+        "pt": "Lucro por ação",
+        "ru": "Прибыль на акцию"
+      },
+      "description": "",
+      "abbreviation": "EPS"
+    },
+    {
+      "source": "Economic Growth",
+      "target": {
+        "zh": "经济增长",
+        "ja": "経済成長",
+        "ko": "경제 성장",
+        "fr": "Croissance économique",
+        "de": "Wirtschaftswachstum",
+        "es": "Crecimiento económico",
+        "it": "Crescita economica",
+        "pt": "Crescimento econômico",
+        "ru": "Экономический рост"
+      },
+      "description": ""
+    },
+    {
+      "source": "Economic Moat",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Economics",
+      "target": {
+        "zh": "经济学",
+        "ja": "経済学",
+        "ko": "경제학",
+        "fr": "Économie",
+        "de": "Wirtschaftswissenschaft",
+        "es": "Economía",
+        "it": "Economia",
+        "pt": "Economia",
+        "ru": "Экономика"
+      },
+      "description": ""
+    },
+    {
+      "source": "Economies of Scale",
+      "target": {
+        "zh": "规模经济",
+        "ja": "規模の経済",
+        "ko": "규모의 경제",
+        "fr": "Économies d'échelle",
+        "de": "Skaleneffekte",
+        "es": "Economías de escala",
+        "it": "Economie di scala",
+        "pt": "Economias de escala",
+        "ru": "Эффект масштаба"
+      },
+      "description": ""
+    },
+    {
+      "source": "Employee Stock Ownership Plan (ESOP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ESOP"
+    },
+    {
+      "source": "Endowment Fund",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Enterprise Resource Planning (ERP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ERP"
+    },
+    {
+      "source": "Enterprise Value (EV)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "EV"
+    },
+    {
+      "source": "Entrepreneur",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Environmental Protection Agency (EPA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "EPA"
+    },
+    {
+      "source": "Environmental, Social, and Governance (ESG) Criteria",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ESG"
+    },
+    {
+      "source": "Equity",
+      "target": {
+        "zh": "股权",
+        "ja": "株式",
+        "ko": "자본",
+        "fr": "Capitaux propres",
+        "de": "Eigenkapital",
+        "es": "Patrimonio",
+        "it": "Patrimonio netto",
+        "pt": "Patrimônio líquido",
+        "ru": "Собственный капитал"
+      },
+      "description": ""
+    },
+    {
+      "source": "Equivalent Annual Cost (EAC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "EAC"
+    },
+    {
+      "source": "Escrow",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "European Union (EU)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "EU"
+    },
+    {
+      "source": "Ex-Dividend",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Exchange Rate",
+      "target": {
+        "zh": "汇率",
+        "ja": "為替レート",
+        "ko": "환율",
+        "fr": "Taux de change",
+        "de": "Wechselkurs",
+        "es": "Tipo de cambio",
+        "it": "Tasso di cambio",
+        "pt": "Taxa de câmbio",
+        "ru": "Валютный курс"
+      },
+      "description": ""
+    },
+    {
+      "source": "Exchange-Traded Fund (ETF)",
+      "target": {
+        "zh": "交易所交易基金",
+        "ja": "上場投資信託",
+        "ko": "상장지수펀드",
+        "fr": "Fonds négocié en bourse",
+        "de": "Börsengehandelter Fonds",
+        "es": "Fondo cotizado en bolsa",
+        "it": "Fondo negoziato in borsa",
+        "pt": "Fundo negociado em bolsa",
+        "ru": "Биржевой инвестиционный фонд"
+      },
+      "description": "",
+      "abbreviation": "ETF"
+    },
+    {
+      "source": "Externality",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "FAANG Stocks",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "FANG Stocks",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Factors of Production",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Feasibility Study",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Federal Deposit Insurance Corporation (FDIC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "FDIC"
+    },
+    {
+      "source": "Federal Funds Rate",
+      "target": {
+        "zh": "联邦基金利率",
+        "ja": "フェデラルファンド金利",
+        "ko": "연방기금 금리",
+        "fr": "Taux des fonds fédéraux",
+        "de": "Federal Funds Rate",
+        "es": "Tasa de fondos federales",
+        "it": "Tasso dei fondi federali",
+        "pt": "Taxa de fundos federais",
+        "ru": "Ставка по федеральным фондам"
+      },
+      "description": ""
+    },
+    {
+      "source": "Federal Housing Administration Loan (FHA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "FHA"
+    },
+    {
+      "source": "Federal Insurance Contributions Act (FICA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "FICA"
+    },
+    {
+      "source": "Fiat Money",
+      "target": {
+        "zh": "法定货币",
+        "ja": "不換紙幣",
+        "ko": "법정화폐",
+        "fr": "Monnaie fiduciaire",
+        "de": "Fiatgeld",
+        "es": "Dinero fiduciario",
+        "it": "Moneta fiat",
+        "pt": "Moeda fiduciária",
+        "ru": "Фиатные деньги"
+      },
+      "description": ""
+    },
+    {
+      "source": "Fiduciary",
+      "target": {
+        "zh": "受托人",
+        "ja": "受託者",
+        "ko": "수탁자",
+        "fr": "Fiduciaire",
+        "de": "Treuhänder",
+        "es": "Fiduciario",
+        "it": "Fiduciario",
+        "pt": "Fiduciário",
+        "ru": "Доверительный управляющий"
+      },
+      "description": ""
+    },
+    {
+      "source": "Finance",
+      "target": {
+        "zh": "金融",
+        "ja": "金融",
+        "ko": "금융",
+        "fr": "Finance",
+        "de": "Finanzen",
+        "es": "Finanzas",
+        "it": "Finanza",
+        "pt": "Finanças",
+        "ru": "Финансы"
+      },
+      "description": ""
+    },
+    {
+      "source": "Financial Institution (FI)",
+      "target": {
+        "zh": "金融机构",
+        "ja": "金融機関",
+        "ko": "금융 기관",
+        "fr": "Institution financière",
+        "de": "Finanzinstitut",
+        "es": "Institución financiera",
+        "it": "Istituzione finanziaria",
+        "pt": "Instituição financeira",
+        "ru": "Финансовое учреждение"
+      },
+      "description": "",
+      "abbreviation": "FI"
+    },
+    {
+      "source": "Financial Statements",
+      "target": {
+        "zh": "财务报表",
+        "ja": "財務諸表",
+        "ko": "재무제표",
+        "fr": "États financiers",
+        "de": "Jahresabschluss",
+        "es": "Estados financieros",
+        "it": "Bilanci",
+        "pt": "Demonstrações financeiras",
+        "ru": "Финансовая отчетность"
+      },
+      "description": ""
+    },
+    {
+      "source": "Financial Technology (Fintech)",
+      "target": {
+        "zh": "金融科技",
+        "ja": "フィンテック",
+        "ko": "핀테크",
+        "fr": "Technologie financière",
+        "de": "Finanztechnologie",
+        "es": "Tecnología financiera",
+        "it": "Tecnologia finanziaria",
+        "pt": "Tecnologia financeira",
+        "ru": "Финтех"
+      },
+      "description": "",
+      "abbreviation": "Fintech"
+    },
+    {
+      "source": "Fiscal Policy",
+      "target": {
+        "zh": "财政政策",
+        "ja": "財政政策",
+        "ko": "재정 정책",
+        "fr": "Politique budgétaire",
+        "de": "Fiskalpolitik",
+        "es": "Política fiscal",
+        "it": "Politica fiscale",
+        "pt": "Política fiscal",
+        "ru": "Фискальная политика"
+      },
+      "description": ""
+    },
+    {
+      "source": "Fixed Income",
+      "target": {
+        "zh": "固定收益",
+        "ja": "固定利回り",
+        "ko": "고정 수익",
+        "fr": "Revenu fixe",
+        "de": "Festverzinsliche Wertpapiere",
+        "es": "Renta fija",
+        "it": "Reddito fisso",
+        "pt": "Renda fixa",
+        "ru": "Фиксированный доход"
+      },
+      "description": ""
+    },
+    {
+      "source": "Fixed-Income Security",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Four Ps",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Free Carrier (FCA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "FCA"
+    },
+    {
+      "source": "Free Market",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Free Trade",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Free on Board (FOB)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "FOB"
+    },
+    {
+      "source": "Fringe Benefits",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Futures",
+      "target": {
+        "zh": "期货",
+        "ja": "先物",
+        "ko": "선물",
+        "fr": "Contrats à terme",
+        "de": "Terminkontrakte",
+        "es": "Futuros",
+        "it": "Futures",
+        "pt": "Futuros",
+        "ru": "Фьючерсы"
+      },
+      "description": ""
+    },
+    {
+      "source": "Game Theory",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Gamma",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "General Agreement on Tariffs and Trade (GATT)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GATT"
+    },
+    {
+      "source": "General Data Protection Regulation (GDPR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GDPR"
+    },
+    {
+      "source": "General Ledger",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Generally Accepted Accounting Principles (GAAP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GAAP"
+    },
+    {
+      "source": "Generation X (Gen X)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Gen X"
+    },
+    {
+      "source": "Geometric Mean",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Giffen Good",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Gini Index",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Globalization",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Goods and Services Tax (GST)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GST"
+    },
+    {
+      "source": "Goodwill",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Gordon Growth Model",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Government Bond",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Government Shutdown",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Great Depression",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Gross Domestic Product (GDP)",
+      "target": {
+        "zh": "国内生产总值",
+        "ja": "国内総生産",
+        "ko": "국내총생산",
+        "fr": "Produit intérieur brut",
+        "de": "Bruttoinlandsprodukt",
+        "es": "Producto interno bruto",
+        "it": "Prodotto interno lordo",
+        "pt": "Produto interno bruto",
+        "ru": "Валовой внутренний продукт"
+      },
+      "description": "",
+      "abbreviation": "GDP"
+    },
+    {
+      "source": "Gross Income",
+      "target": {
+        "zh": "总收入",
+        "ja": "総収入",
+        "ko": "총수입",
+        "fr": "Revenu brut",
+        "de": "Bruttoeinkommen",
+        "es": "Ingreso bruto",
+        "it": "Reddito lordo",
+        "pt": "Renda bruta",
+        "ru": "Валовой доход"
+      },
+      "description": ""
+    },
+    {
+      "source": "Gross Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Gross National Product (GNP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GNP"
+    },
+    {
+      "source": "Gross Profit",
+      "target": {
+        "zh": "毛利润",
+        "ja": "粗利益",
+        "ko": "매출총이익",
+        "fr": "Bénéfice brut",
+        "de": "Bruttogewinn",
+        "es": "Beneficio bruto",
+        "it": "Utile lordo",
+        "pt": "Lucro bruto",
+        "ru": "Валовая прибыль"
+      },
+      "description": ""
+    },
+    {
+      "source": "Gross Profit Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Guarantor",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hard Skills",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Harmonic Mean",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Head And Shoulders Pattern",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Health Maintenance Organizations (HMOs)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HMOs"
+    },
+    {
+      "source": "Health Savings Account (HSA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HSA"
+    },
+    {
+      "source": "Hedge",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hedge Fund",
+      "target": {
+        "zh": "对冲基金",
+        "ja": "ヘッジファンド",
+        "ko": "헤지펀드",
+        "fr": "Fonds spéculatif",
+        "de": "Hedgefonds",
+        "es": "Fondo de cobertura",
+        "it": "Fondo speculativo",
+        "pt": "Fundo de hedge",
+        "ru": "Хедж-фонд"
+      },
+      "description": ""
+    },
+    {
+      "source": "Herfindahl-Hirschman Index (HHI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HHI"
+    },
+    {
+      "source": "Heteroskedasticity",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "High-Low Method",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "High-Net-Worth Individual (HNWI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HNWI"
+    },
+    {
+      "source": "Hold Harmless Clause",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Holding Company",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Home Equity Loan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Homeowners Association (HOA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HOA"
+    },
+    {
+      "source": "Homeowners Association Fee (HOA Fee)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "HOA Fee"
+    },
+    {
+      "source": "Homestead Exemption",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Horizontal Integration",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hostile Takeover",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Housing Bubble",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Human Capital",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hurdle Rate",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hyperinflation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Hypothesis Testing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "IPO",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "IRA",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Income",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Income Statement",
+      "target": {
+        "zh": "损益表",
+        "ja": "損益計算書",
+        "ko": "손익계산서",
+        "fr": "Compte de résultat",
+        "de": "Gewinn- und Verlustrechnung",
+        "es": "Estado de resultados",
+        "it": "Conto economico",
+        "pt": "Demonstração do resultado",
+        "ru": "Отчет о прибылях и убытках"
+      },
+      "description": ""
+    },
+    {
+      "source": "Indemnity",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Index",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Index Fund",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Individual Retirement Account (IRA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "IRA"
+    },
+    {
+      "source": "Inflation",
+      "target": {
+        "zh": "通货膨胀",
+        "ja": "インフレーション",
+        "ko": "인플레이션",
+        "fr": "Inflation",
+        "de": "Inflation",
+        "es": "Inflación",
+        "it": "Inflazione",
+        "pt": "Inflação",
+        "ru": "Инфляция"
+      },
+      "description": ""
+    },
+    {
+      "source": "Initial Public Offering (IPO)",
+      "target": {
+        "zh": "首次公开发行",
+        "ja": "新規公開",
+        "ko": "기업공개",
+        "fr": "Introduction en bourse",
+        "de": "Börsengang",
+        "es": "Oferta pública inicial",
+        "it": "Offerta pubblica iniziale",
+        "pt": "Oferta pública inicial",
+        "ru": "Первичное публичное размещение"
+      },
+      "description": "",
+      "abbreviation": "IPO"
+    },
+    {
+      "source": "Insider Trading",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Insurance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Interest Rate",
+      "target": {
+        "zh": "利率",
+        "ja": "金利",
+        "ko": "이자율",
+        "fr": "Taux d'intérêt",
+        "de": "Zinssatz",
+        "es": "Tasa de interés",
+        "it": "Tasso di interesse",
+        "pt": "Taxa de juros",
+        "ru": "Процентная ставка"
+      },
+      "description": ""
+    },
+    {
+      "source": "Internal Rate of Return (IRR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "IRR"
+    },
+    {
+      "source": "International Monetary Fund (IMF)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "IMF"
+    },
+    {
+      "source": "Investment",
+      "target": {
+        "zh": "投资",
+        "ja": "投資",
+        "ko": "투자",
+        "fr": "Investissement",
+        "de": "Investition",
+        "es": "Inversión",
+        "it": "Investimento",
+        "pt": "Investimento",
+        "ru": "Инвестиция"
+      },
+      "description": ""
+    },
+    {
+      "source": "Investment Bank",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Investment Banking",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Joint Venture",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Junk Bond",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Korea Composite Stock Price Indexes (KOSPI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "KOSPI"
+    },
+    {
+      "source": "Kurtosis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Kuwaiti Dinar (KWD)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "KWD"
+    },
+    {
+      "source": "Kyoto Protocol",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Laissez-Faire",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Law of Demand",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Law of Supply",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Law of Supply and Demand",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Leadership",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Letter of Intent (LOI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LOI"
+    },
+    {
+      "source": "Letters of Credit",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Leverage",
+      "target": {
+        "zh": "杠杆",
+        "ja": "レバレッジ",
+        "ko": "레버리지",
+        "fr": "Effet de levier",
+        "de": "Hebelwirkung",
+        "es": "Apalancamiento",
+        "it": "Leva finanziaria",
+        "pt": "Alavancagem",
+        "ru": "Кредитное плечо"
+      },
+      "description": ""
+    },
+    {
+      "source": "Leverage Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Leveraged Buyout (LBO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LBO"
+    },
+    {
+      "source": "Liability",
+      "target": {
+        "zh": "负债",
+        "ja": "負債",
+        "ko": "부채",
+        "fr": "Passif",
+        "de": "Verbindlichkeit",
+        "es": "Pasivo",
+        "it": "Passività",
+        "pt": "Passivo",
+        "ru": "Обязательство"
+      },
+      "description": ""
+    },
+    {
+      "source": "Liability Insurance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Limit Order",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Limited Government",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Limited Liability Company (LLC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LLC"
+    },
+    {
+      "source": "Limited Partnership (LP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LP"
+    },
+    {
+      "source": "Line of Credit (LOC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LOC"
+    },
+    {
+      "source": "Liquidation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Liquidity",
+      "target": {
+        "zh": "流动性",
+        "ja": "流動性",
+        "ko": "유동성",
+        "fr": "Liquidité",
+        "de": "Liquidität",
+        "es": "Liquidez",
+        "it": "Liquidità",
+        "pt": "Liquidez",
+        "ru": "Ликвидность"
+      },
+      "description": ""
+    },
+    {
+      "source": "Liquidity Coverage Ratio (LCR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LCR"
+    },
+    {
+      "source": "Liquidity Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Loan-To-Value Ratio (LTV)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LTV"
+    },
+    {
+      "source": "London Inter-Bank Offered Rate (LIBOR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "LIBOR"
+    },
+    {
+      "source": "Ltd. (Limited)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Limited"
+    },
+    {
+      "source": "Macroeconomics",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Magna Cum Laude",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Management by Objectives (MBO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "MBO"
+    },
+    {
+      "source": "Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Margin Call",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Market Share",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Marketing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Marketing Strategy",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Master Limited Partnership (MLP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "MLP"
+    },
+    {
+      "source": "Memorandum of Understanding (MOU)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "MOU"
+    },
+    {
+      "source": "Mercantilism",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Mergers and Acquisitions (M&A)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "M&A"
+    },
+    {
+      "source": "Milton Friedman",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Mixed Economic System",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Monetary Policy",
+      "target": {
+        "zh": "货币政策",
+        "ja": "金融政策",
+        "ko": "통화 정책",
+        "fr": "Politique monétaire",
+        "de": "Geldpolitik",
+        "es": "Política monetaria",
+        "it": "Politica monetaria",
+        "pt": "Política monetária",
+        "ru": "Денежно-кредитная политика"
+      },
+      "description": ""
+    },
+    {
+      "source": "Money Laundering",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Money Market Account",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Monopolistic Competition",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Monte Carlo Simulation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Moore's Law",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Moving Average Convergence Divergence (MACD)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "MACD"
+    },
+    {
+      "source": "Multilevel Marketing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Mutual Fund",
+      "target": {
+        "zh": "共同基金",
+        "ja": "投資信託",
+        "ko": "뮤추얼 펀드",
+        "fr": "Fonds commun de placement",
+        "de": "Investmentfonds",
+        "es": "Fondo mutuo",
+        "it": "Fondo comune di investimento",
+        "pt": "Fundo mútuo",
+        "ru": "Взаимный фонд"
+      },
+      "description": ""
+    },
+    {
+      "source": "Mutually Exclusive",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "NINJA Loan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Nasdaq",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Nash Equilibrium",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Negative Correlation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Neoliberalism",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Net Asset Value (NAV)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NAV"
+    },
+    {
+      "source": "Net Income (NI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NI"
+    },
+    {
+      "source": "Net Operating Income (NOI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NOI"
+    },
+    {
+      "source": "Net Present Value (NPV)",
+      "target": {
+        "zh": "净现值",
+        "ja": "正味現在価値",
+        "ko": "순현재가치",
+        "fr": "Valeur actuelle nette",
+        "de": "Nettobarwert",
+        "es": "Valor presente neto",
+        "it": "Valore attuale netto",
+        "pt": "Valor presente líquido",
+        "ru": "Чистая приведенная стоимость"
+      },
+      "description": "",
+      "abbreviation": "NPV"
+    },
+    {
+      "source": "Net Profit Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Net Worth",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Netting",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Network Marketing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Networking",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "New York Stock Exchange (NYSE)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NYSE"
+    },
+    {
+      "source": "Next of Kin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Nominal",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Non-Disclosure Agreement (NDA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NDA"
+    },
+    {
+      "source": "Normal Distribution",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "North American Free Trade Agreement (NAFTA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NAFTA"
+    },
+    {
+      "source": "Not for Profit",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Notional Value",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Novation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Null Hypothesis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Offset",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Old Age, Survivors, and Disability Insurance (OASDI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OASDI"
+    },
+    {
+      "source": "Oligopoly",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Onerous Contract",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Online Banking",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Open Market Operations",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Operating Income",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Operating Leverage",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Operating Margin",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Operations Management",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Opportunity Cost",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Option",
+      "target": {
+        "zh": "期权",
+        "ja": "オプション",
+        "ko": "옵션",
+        "fr": "Option",
+        "de": "Option",
+        "es": "Opción",
+        "it": "Opzione",
+        "pt": "Opção",
+        "ru": "Опцион"
+      },
+      "description": ""
+    },
+    {
+      "source": "Organization of the Petroleum Exporting Countries (OPEC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OPEC"
+    },
+    {
+      "source": "Organizational Behavior (OB)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OB"
+    },
+    {
+      "source": "Organizational Structure",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Original Equipment Manufacturer (OEM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OEM"
+    },
+    {
+      "source": "Original Issue Discount (OID)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OID"
+    },
+    {
+      "source": "Out Of The Money (OTM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OTM"
+    },
+    {
+      "source": "Outsourcing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Over-The-Counter (OTC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "OTC"
+    },
+    {
+      "source": "Over-The-Counter Market",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Overdraft",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Overhead",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Overnight Index Swap",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "P-Value",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Partnership",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Penny Stocks Trade",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Per Capita GDP",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Perfect Competition",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Personal Finance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Phillips Curve",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Ponzi Scheme",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Porter's 5 Forces",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Positive Correlation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Pre-Market",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Preference Shares",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Preferred Stock",
+      "target": {
+        "zh": "优先股",
+        "ja": "優先株",
+        "ko": "우선주",
+        "fr": "Actions privilégiées",
+        "de": "Vorzugsaktien",
+        "es": "Acciones preferentes",
+        "it": "Azioni privilegiate",
+        "pt": "Ações preferenciais",
+        "ru": "Привилегированные акции"
+      },
+      "description": ""
+    },
+    {
+      "source": "Present Value",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Price-to-Earnings Ratio (P/E Ratio)",
+      "target": {
+        "zh": "市盈率",
+        "ja": "株価収益率",
+        "ko": "주가수익비율",
+        "fr": "Ratio cours/bénéfice",
+        "de": "Kurs-Gewinn-Verhältnis",
+        "es": "Ratio precio-beneficio",
+        "it": "Rapporto prezzo/utili",
+        "pt": "Relação preço/lucro",
+        "ru": "Коэффициент цена/прибыль"
+      },
+      "description": "",
+      "abbreviation": "P/E Ratio"
+    },
+    {
+      "source": "Price/Earnings-to-Growth (PEG) Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "PEG"
+    },
+    {
+      "source": "Pro Rata",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Producer Price Index (PPI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "PPI"
+    },
+    {
+      "source": "Profit",
+      "target": {
+        "zh": "利润",
+        "ja": "利益",
+        "ko": "이익",
+        "fr": "Profit",
+        "de": "Gewinn",
+        "es": "Beneficio",
+        "it": "Profitto",
+        "pt": "Lucro",
+        "ru": "Прибыль"
+      },
+      "description": ""
+    },
+    {
+      "source": "Profit and Loss Statement (P&L)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "P&L"
+    },
+    {
+      "source": "Promissory Note",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Prospectus",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Public Limited Company (PLC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "PLC"
+    },
+    {
+      "source": "Put Option",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Q Ratio (Tobin's Q)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Tobin's Q"
+    },
+    {
+      "source": "Quadruple Witching",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Qualified Dividend",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Qualified Institutional Buyer (QIB)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QIB"
+    },
+    {
+      "source": "Qualified Institutional Placement (QIP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QIP"
+    },
+    {
+      "source": "Qualified Longevity Annuity Contract (QLAC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QLAC"
+    },
+    {
+      "source": "Qualified Opinion",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Qualified Retirement Plan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Qualified Terminable Interest Property (QTIP) Trust",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QTIP"
+    },
+    {
+      "source": "Qualitative Analysis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quality Control",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quality Management",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quality of Earnings",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quantitative Analysis (QA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QA"
+    },
+    {
+      "source": "Quantitative Easing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quantitative Trading",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quantity Demanded",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quarter (Q1, Q2, Q3, Q4)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Q1, Q2, Q3, Q4"
+    },
+    {
+      "source": "Quarter on Quarter (QOQ)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "QOQ"
+    },
+    {
+      "source": "Quasi Contract",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quick Assets",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quick Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quintiles",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Quota",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "R-Squared",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Racketeering",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Rate of Return",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Rational Choice Theory",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Real Estate",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Real Estate Investment Trust (REIT)",
+      "target": {
+        "zh": "房地产投资信托",
+        "ja": "不動産投資信託",
+        "ko": "부동산 투자 신탁",
+        "fr": "Fonds de placement immobilier",
+        "de": "Immobilien-Investmentfonds",
+        "es": "Fondo de inversión inmobiliaria",
+        "it": "Fondo di investimento immobiliare",
+        "pt": "Fundo de investimento imobiliário",
+        "ru": "Инвестиционный траст недвижимости"
+      },
+      "description": "",
+      "abbreviation": "REIT"
+    },
+    {
+      "source": "Real Gross Domestic Product (GDP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "GDP"
+    },
+    {
+      "source": "Receivables Turnover Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Registered Investment Advisor (RIA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "RIA"
+    },
+    {
+      "source": "Regression",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Relative Strength Index (RSI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "RSI"
+    },
+    {
+      "source": "Renewable Resource",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Repurchase Agreement (Repo)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Repo"
+    },
+    {
+      "source": "Requests for Proposal (RFP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "RFP"
+    },
+    {
+      "source": "Required Minimum Distribution (RMD)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "RMD"
+    },
+    {
+      "source": "Retained Earnings",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Return on Assets (ROA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ROA"
+    },
+    {
+      "source": "Return on Equity (ROE)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ROE"
+    },
+    {
+      "source": "Return on Invested Capital (ROIC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ROIC"
+    },
+    {
+      "source": "Return on Investment (ROI)",
+      "target": {
+        "zh": "投资回报率",
+        "ja": "投資収益率",
+        "ko": "투자 수익률",
+        "fr": "Retour sur investissement",
+        "de": "Kapitalrendite",
+        "es": "Retorno de la inversión",
+        "it": "Ritorno sull'investimento",
+        "pt": "Retorno sobre investimento",
+        "ru": "Рентабельность инвестиций"
+      },
+      "description": "",
+      "abbreviation": "ROI"
+    },
+    {
+      "source": "Roth 401(k)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "k"
+    },
+    {
+      "source": "Roth IRA",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Rule of 72",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Russell 2000 Index",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "S&P 500 Index (Standard & Poor's 500 Index)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Standard & Poor's 500 Index"
+    },
+    {
+      "source": "Sarbanes-Oxley (SOX) Act of 2002",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "SOX"
+    },
+    {
+      "source": "Securities and Exchange Commission (SEC)",
+      "target": {
+        "zh": "证券交易委员会",
+        "ja": "証券取引委員会",
+        "ko": "증권거래위원회",
+        "fr": "Commission des opérations de bourse",
+        "de": "Börsenaufsichtsbehörde",
+        "es": "Comisión de Bolsa y Valores",
+        "it": "Commissione per i titoli e gli scambi",
+        "pt": "Comissão de Valores Mobiliários",
+        "ru": "Комиссия по ценным бумагам и биржам"
+      },
+      "description": "",
+      "abbreviation": "SEC"
+    },
+    {
+      "source": "Security",
+      "target": {
+        "zh": "证券",
+        "ja": "証券",
+        "ko": "증권",
+        "fr": "Valeur mobilière",
+        "de": "Wertpapier",
+        "es": "Valor",
+        "it": "Titolo",
+        "pt": "Título",
+        "ru": "Ценная бумага"
+      },
+      "description": ""
+    },
+    {
+      "source": "Series 63",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Series 7",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Sharpe Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Short Selling",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Social Media",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Social Responsibility",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Solvency Ratio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Spread",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Standard Deviation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Stochastic Oscillator",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Stock",
+      "target": {
+        "zh": "股票",
+        "ja": "株式",
+        "ko": "주식",
+        "fr": "Action",
+        "de": "Aktie",
+        "es": "Acción",
+        "it": "Azione",
+        "pt": "Ação",
+        "ru": "Акция"
+      },
+      "description": ""
+    },
+    {
+      "source": "Stock Keeping Unit (SKU)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "SKU"
+    },
+    {
+      "source": "Stock Market",
+      "target": {
+        "zh": "股票市场",
+        "ja": "株式市場",
+        "ko": "주식 시장",
+        "fr": "Marché boursier",
+        "de": "Aktienmarkt",
+        "es": "Mercado de valores",
+        "it": "Mercato azionario",
+        "pt": "Mercado de ações",
+        "ru": "Фондовый рынок"
+      },
+      "description": ""
+    },
+    {
+      "source": "Stop-Limit Order",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Straddle",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Strength, Weakness, Opportunity, and Threat (SWOT) Analysis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "SWOT"
+    },
+    {
+      "source": "Subsidiary",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Supply Chain",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Sustainability",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Systematic Sampling",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "T-Test",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "TSA PreCheck",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Tariff",
+      "target": {
+        "zh": "关税",
+        "ja": "関税",
+        "ko": "관세",
+        "fr": "Tarif douanier",
+        "de": "Zoll",
+        "es": "Arancel",
+        "it": "Tariffa doganale",
+        "pt": "Tarifa",
+        "ru": "Тариф"
+      },
+      "description": ""
+    },
+    {
+      "source": "Technical Analysis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Tenancy in Common (TIC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TIC"
+    },
+    {
+      "source": "Term Life Insurance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Terminal Value (TV)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TV"
+    },
+    {
+      "source": "Third World",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Total Expense Ratio (TER)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TER"
+    },
+    {
+      "source": "Total Quality Management (TQM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TQM"
+    },
+    {
+      "source": "Total Shareholder Return (TSR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TSR"
+    },
+    {
+      "source": "Total-Debt-to-Total-Assets",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Trade Deficit",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Trailing 12 Months (TTM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TTM"
+    },
+    {
+      "source": "Tranches",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Transaction",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Treasury Bills (T-Bills)",
+      "target": {
+        "zh": "国库券",
+        "ja": "短期国債",
+        "ko": "국채",
+        "fr": "Bons du Trésor",
+        "de": "Schatzwechsel",
+        "es": "Letras del Tesoro",
+        "it": "Buoni del Tesoro",
+        "pt": "Letras do Tesouro",
+        "ru": "Казначейские векселя"
+      },
+      "description": "",
+      "abbreviation": "T-Bills"
+    },
+    {
+      "source": "Treasury Inflation-Protected Security (TIPS)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TIPS"
+    },
+    {
+      "source": "Triple Bottom Line (TBL)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TBL"
+    },
+    {
+      "source": "Troubled Asset Relief Program (TARP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "TARP"
+    },
+    {
+      "source": "Trust",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Trust Fund",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Trustee",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Turnover",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "U.S. Dollar Index (USDX)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "USDX"
+    },
+    {
+      "source": "U.S. Savings Bonds",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Underlying Asset",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Underwriter",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Underwriting",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unearned Income",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unemployment",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unemployment Rate",
+      "target": {
+        "zh": "失业率",
+        "ja": "失業率",
+        "ko": "실업률",
+        "fr": "Taux de chômage",
+        "de": "Arbeitslosenquote",
+        "es": "Tasa de desempleo",
+        "it": "Tasso di disoccupazione",
+        "pt": "Taxa de desemprego",
+        "ru": "Уровень безработицы"
+      },
+      "description": ""
+    },
+    {
+      "source": "Unicorn",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unified Managed Account (UMA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UMA"
+    },
+    {
+      "source": "Uniform Distribution",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Uniform Gifts to Minors Ac (UGMA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UGMA"
+    },
+    {
+      "source": "Uniform Transfers to Minors Act (UTMA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UTMA"
+    },
+    {
+      "source": "Unilateral Contract",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unit Investment Trust (UIT)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UIT"
+    },
+    {
+      "source": "United Nations (UN)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UN"
+    },
+    {
+      "source": "Universal Life Insurance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unlevered Beta",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unlevered Free Cash Flow (UFCF)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "UFCF"
+    },
+    {
+      "source": "Unlimited Liability",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Unsecured Loan",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Upside",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Utilities Sector",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Utility",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "VIX (CBOE Volatility Index)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "CBOE Volatility Index"
+    },
+    {
+      "source": "Valuation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Value Added",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Value Chain",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Value Investing",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Value Proposition",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Value at Risk (VaR)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VaR"
+    },
+    {
+      "source": "Value-Added Tax (VAT)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VAT"
+    },
+    {
+      "source": "Variability",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Variable Annuity",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Variable Cost",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Variance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Vega",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Velocity of Money",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Venture Capital",
+      "target": {
+        "zh": "风险投资",
+        "ja": "ベンチャーキャピタル",
+        "ko": "벤처 캐피털",
+        "fr": "Capital-risque",
+        "de": "Risikokapital",
+        "es": "Capital de riesgo",
+        "it": "Capitale di rischio",
+        "pt": "Capital de risco",
+        "ru": "Венчурный капитал"
+      },
+      "description": ""
+    },
+    {
+      "source": "Venture Capitalist (VC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VC"
+    },
+    {
+      "source": "Vertical Analysis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Vertical Integration",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Vesting",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Visual Basic for Applications (VBA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VBA"
+    },
+    {
+      "source": "Volatility",
+      "target": {
+        "zh": "波动率",
+        "ja": "ボラティリティ",
+        "ko": "변동성",
+        "fr": "Volatilité",
+        "de": "Volatilität",
+        "es": "Volatilidad",
+        "it": "Volatilità",
+        "pt": "Volatilidade",
+        "ru": "Волатильность"
+      },
+      "description": ""
+    },
+    {
+      "source": "Volcker Rule",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Volume Weighted Average Price (VWAP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VWAP"
+    },
+    {
+      "source": "Voluntary Employees Beneficiary Association Plan (VEBA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "VEBA"
+    },
+    {
+      "source": "W-2 Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "W-4 Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "W-8 Form",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Waiver of Subrogation",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wall Street",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "War Bond",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Warrant",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wash Sale",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wash-Sale Rule",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wealth Management",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wearable Technology",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Weighted Average",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Weighted Average Cost of Capital (WACC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "WACC"
+    },
+    {
+      "source": "White Paper",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "White-Collar Crime",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wholesale Price Index (WPI)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "WPI"
+    },
+    {
+      "source": "Wire Fraud",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Wire Transfers",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Withholding Allowance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Withholding Tax",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Working Capital (NWC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "NWC"
+    },
+    {
+      "source": "Works-in-Progress (WIP)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "WIP"
+    },
+    {
+      "source": "World Trade Organization (WTO)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "WTO"
+    },
+    {
+      "source": "WorldCom",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "X-Efficiency",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "X-Mark Signature",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "XBRL (eXtensible Business Reporting Language)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "eXtensible Business Reporting Language"
+    },
+    {
+      "source": "XCD (Eastern Caribbean Dollar)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Eastern Caribbean Dollar"
+    },
+    {
+      "source": "XD",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "XML (Extensible Markup Language)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Extensible Markup Language"
+    },
+    {
+      "source": "XRT",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Xenocurrency",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Xetra",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yacht Insurance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yale School of Management",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yankee Bond",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yankee Market",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Year to Date (YTD)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YTD"
+    },
+    {
+      "source": "Year's Maximum Pensionable Earnings (YMPE)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YMPE"
+    },
+    {
+      "source": "Year-End Bonus",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Year-Over-Year (YOY)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YOY"
+    },
+    {
+      "source": "Yearly Rate Of Return Method",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yearly Renewable Term (YRT)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YRT"
+    },
+    {
+      "source": "Yield",
+      "target": {
+        "zh": "收益率",
+        "ja": "利回り",
+        "ko": "수익률",
+        "fr": "Rendement",
+        "de": "Rendite",
+        "es": "Rendimiento",
+        "it": "Rendimento",
+        "pt": "Rendimento",
+        "ru": "Доходность"
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Basis",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Curve",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Curve Risk",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Maintenance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Spread",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield Variance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield on Cost (YOC)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YOC"
+    },
+    {
+      "source": "Yield on Earning Assets",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield to Call",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yield to Maturity (YTM)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YTM"
+    },
+    {
+      "source": "Yield to Worst (YTW)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "YTW"
+    },
+    {
+      "source": "York Antwerp Rules",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Yuppie",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Z-Score",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Z-Test",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "ZCash",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "ZZZZ Best",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zacks Investment Research",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero Balance Account (ZBA)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ZBA"
+    },
+    {
+      "source": "Zero Cost Collar",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero Coupon Inflation Swap",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero Coupon Swap",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Based Budgeting (ZBB)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "ZBB"
+    },
+    {
+      "source": "Zero-Beta Portfolio",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Bound",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Coupon Bond",
+      "target": {
+        "zh": "零息债券",
+        "ja": "ゼロクーポン債",
+        "ko": "무이표채",
+        "fr": "Obligation à coupon zéro",
+        "de": "Nullkuponanleihe",
+        "es": "Bono cupón cero",
+        "it": "Obbligazione zero coupon",
+        "pt": "Título de cupom zero",
+        "ru": "Облигация с нулевым купоном"
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Lot-Line House",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-One Integer Programming",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Rated Goods",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Sum Game",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zero-Volatility Spread (Z-spread)",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": "",
+      "abbreviation": "Z-spread"
+    },
+    {
+      "source": "Zeta Model",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zig Zag Indicator",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zombies",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zoning",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "Zoning Ordinance",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    },
+    {
+      "source": "zk-SNARK",
+      "target": {
+        "zh": "",
+        "ja": "",
+        "ko": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "pt": "",
+        "ru": ""
+      },
+      "description": ""
+    }
+  ]
+}

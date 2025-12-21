@@ -11,8 +11,17 @@
       },
       "file": "industries/web3.json",
       "termCount": 80
+    },
+    {
+      "id": "financial",
+      "name": {
+        "en": "Finance",
+        "zh": "金融"
+      },
+      "file": "industries/financial.json",
+      "termCount": 583
     }
   ],
-  "totalTerms": 80
+  "totalTerms": 663
 }
 
