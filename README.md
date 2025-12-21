@@ -1,0 +1,2 @@
+# wordplay-glossary
+wordplay.icu
