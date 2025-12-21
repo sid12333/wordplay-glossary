@@ -1,0 +1,1224 @@
+{
+  "id": "web3",
+  "name": {
+    "en": "Web3",
+    "zh": "Web3"
+  },
+  "terms": [
+    {
+      "source": "ABI",
+      "target": {
+        "zh": "应用二进制接口",
+        "ja": "アプリケーションバイナリインターフェース",
+        "ko": "애플리케이션 바이너리 인터페이스",
+        "fr": "Interface Binaire d'Application",
+        "de": "Anwendungsbinärschnittstelle",
+        "es": "Interfaz Binaria de Aplicación",
+        "it": "Interfaccia Binaria dell'Applicazione",
+        "pt": "Interface Binária de Aplicação",
+        "ru": "Двоичный интерфейс приложения"
+      },
+      "abbreviation": "ABI",
+      "description": "Application Binary Interface - an interface between two binary program modules at the level of machine code"
+    },
+    {
+      "source": "API",
+      "target": {
+        "zh": "应用程序编程接口",
+        "ja": "アプリケーションプログラミングインターフェース",
+        "ko": "애플리케이션 프로그래밍 인터페이스",
+        "fr": "Interface de Programmation d'Application",
+        "de": "Anwendungsprogrammierschnittstelle",
+        "es": "Interfaz de Programación de Aplicaciones",
+        "it": "Interfaccia di Programmazione delle Applicazioni",
+        "pt": "Interface de Programação de Aplicativos",
+        "ru": "Интерфейс прикладного программирования"
+      },
+      "abbreviation": "API",
+      "description": "Application Programming Interface - an interface between computers or programs that allows information to pass between them"
+    },
+    {
+      "source": "Arbitrage",
+      "target": {
+        "zh": "套利",
+        "ja": "アービトラージ",
+        "ko": "차익거래",
+        "fr": "Arbitrage",
+        "de": "Arbitrage",
+        "es": "Arbitraje",
+        "it": "Arbitraggio",
+        "pt": "Arbitragem",
+        "ru": "Арбитраж"
+      },
+      "description": "A natural mechanism for markets to achieve equilibrium by taking advantage of price differences across different platforms"
+    },
+    {
+      "source": "Arbitrum",
+      "target": {
+        "zh": "Arbitrum",
+        "ja": "Arbitrum",
+        "ko": "Arbitrum",
+        "fr": "Arbitrum",
+        "de": "Arbitrum",
+        "es": "Arbitrum",
+        "it": "Arbitrum",
+        "pt": "Arbitrum",
+        "ru": "Arbitrum"
+      },
+      "description": "An Ethereum layer 2 scaling solution that reduces fees and network congestion by computing transactions outside of the Ethereum Mainnet"
+    },
+    {
+      "source": "Archival Nodes",
+      "target": {
+        "zh": "归档节点",
+        "ja": "アーカイブノード",
+        "ko": "아카이브 노드",
+        "fr": "Nœuds d'archivage",
+        "de": "Archivknoten",
+        "es": "Nodos de archivo",
+        "it": "Nodi di archiviazione",
+        "pt": "Nós de arquivo",
+        "ru": "Архивные узлы"
+      },
+      "description": "A full node in the blockchain that keeps a complete history of transactions and address state changes since the genesis block"
+    },
+    {
+      "source": "Base Fee",
+      "target": {
+        "zh": "基础费用",
+        "ja": "ベース手数料",
+        "ko": "기본 수수료",
+        "fr": "Frais de base",
+        "de": "Grundgebühr",
+        "es": "Tarifa base",
+        "it": "Commissione base",
+        "pt": "Taxa base",
+        "ru": "Базовая комиссия"
+      },
+      "description": "An algorithmically determined fee that users on the Ethereum blockchain must pay to complete a transaction"
+    },
+    {
+      "source": "Block Gas Estimator Feed",
+      "target": {
+        "zh": "区块 Gas 估算器",
+        "ja": "ブロックガス見積もりフィード",
+        "ko": "블록 가스 추정기 피드",
+        "fr": "Flux d'estimation du gaz de bloc",
+        "de": "Block-Gas-Schätzer-Feed",
+        "es": "Feed de estimador de gas de bloque",
+        "it": "Feed stimatore gas del blocco",
+        "pt": "Feed do estimador de gas do bloco",
+        "ru": "Лента оценки газа блока"
+      },
+      "description": "Estimates gas prices for the next block based upon the in-flight transactions that are currently in the mempool"
+    },
+    {
+      "source": "Blockchain",
+      "target": {
+        "zh": "区块链",
+        "ja": "ブロックチェーン",
+        "ko": "블록체인",
+        "fr": "Blockchain",
+        "de": "Blockchain",
+        "es": "Cadena de bloques",
+        "it": "Blockchain",
+        "pt": "Blockchain",
+        "ru": "Блокчейн"
+      },
+      "description": "A distributed database that is shared among the nodes of a computer network"
+    },
+    {
+      "source": "Bridge",
+      "target": {
+        "zh": "跨链桥",
+        "ja": "ブリッジ",
+        "ko": "브리지",
+        "fr": "Pont",
+        "de": "Brücke",
+        "es": "Puente",
+        "it": "Ponte",
+        "pt": "Ponte",
+        "ru": "Мост"
+      },
+      "description": "An application that connects two or more blockchains, allowing users to send digital assets from one network to another"
+    },
+    {
+      "source": "Bulletproofs",
+      "target": {
+        "zh": "Bulletproofs",
+        "ja": "Bulletproofs",
+        "ko": "Bulletproofs",
+        "fr": "Bulletproofs",
+        "de": "Bulletproofs",
+        "es": "Bulletproofs",
+        "it": "Bulletproofs",
+        "pt": "Bulletproofs",
+        "ru": "Bulletproofs"
+      },
+      "description": "Short, non-interactive zero-knowledge proofs that require no trusted setup"
+    },
+    {
+      "source": "Cancel Transactions",
+      "target": {
+        "zh": "取消交易",
+        "ja": "トランザクションのキャンセル",
+        "ko": "거래 취소",
+        "fr": "Annuler les transactions",
+        "de": "Transaktionen stornieren",
+        "es": "Cancelar transacciones",
+        "it": "Annulla transazioni",
+        "pt": "Cancelar transações",
+        "ru": "Отменить транзакции"
+      },
+      "description": "A type of replacement transaction where a user submits an identical transaction with a higher gas limit"
+    },
+    {
+      "source": "Censorship",
+      "target": {
+        "zh": "审查",
+        "ja": "検閲",
+        "ko": "검열",
+        "fr": "Censure",
+        "de": "Zensur",
+        "es": "Censura",
+        "it": "Censura",
+        "pt": "Censura",
+        "ru": "Цензура"
+      },
+      "description": "The process of manipulating blocks to exclude specific transactions for a number of blocks"
+    },
+    {
+      "source": "Confirmed Transaction",
+      "target": {
+        "zh": "已确认交易",
+        "ja": "確認済みトランザクション",
+        "ko": "확인된 거래",
+        "fr": "Transaction confirmée",
+        "de": "Bestätigte Transaktion",
+        "es": "Transacción confirmada",
+        "it": "Transazione confermata",
+        "pt": "Transação confirmada",
+        "ru": "Подтвержденная транзакция"
+      },
+      "description": "A transaction that has been included in a block and permanently added to the blockchain"
+    },
+    {
+      "source": "Cross-Chain Arbitrage",
+      "target": {
+        "zh": "跨链套利",
+        "ja": "クロスチェーンアービトラージ",
+        "ko": "크로스체인 차익거래",
+        "fr": "Arbitrage inter-chaînes",
+        "de": "Kettenübergreifende Arbitrage",
+        "es": "Arbitraje entre cadenas",
+        "it": "Arbitraggio cross-chain",
+        "pt": "Arbitragem entre cadeias",
+        "ru": "Межсетевой арбитраж"
+      },
+      "description": "Arbitrage opportunities across different blockchain networks"
+    },
+    {
+      "source": "Dapp",
+      "target": {
+        "zh": "去中心化应用",
+        "ja": "分散型アプリケーション",
+        "ko": "탈중앙화 애플리케이션",
+        "fr": "Application décentralisée",
+        "de": "Dezentrale Anwendung",
+        "es": "Aplicación descentralizada",
+        "it": "Applicazione decentralizzata",
+        "pt": "Aplicativo descentralizado",
+        "ru": "Децентрализованное приложение"
+      },
+      "abbreviation": "Dapp",
+      "description": "Decentralized application - an application built on a decentralized blockchain network using smart contracts"
+    },
+    {
+      "source": "DeFi",
+      "target": {
+        "zh": "去中心化金融",
+        "ja": "分散型金融",
+        "ko": "탈중앙화 금융",
+        "fr": "Finance décentralisée",
+        "de": "Dezentrale Finanzen",
+        "es": "Finanzas descentralizadas",
+        "it": "Finanza decentralizzata",
+        "pt": "Finanças descentralizadas",
+        "ru": "Децентрализованные финансы"
+      },
+      "abbreviation": "DeFi",
+      "description": "Decentralized Finance - an open financial system that doesn't rely on centralized authorities"
+    },
+    {
+      "source": "DEX",
+      "target": {
+        "zh": "去中心化交易所",
+        "ja": "分散型取引所",
+        "ko": "탈중앙화 거래소",
+        "fr": "Échange décentralisé",
+        "de": "Dezentrale Börse",
+        "es": "Intercambio descentralizado",
+        "it": "Scambio decentralizzato",
+        "pt": "Exchange descentralizado",
+        "ru": "Децентрализованная биржа"
+      },
+      "abbreviation": "DEX",
+      "description": "Decentralized Exchange - enables users to transact in a direct peer-to-peer manner without any intermediary"
+    },
+    {
+      "source": "Dropped Transaction",
+      "target": {
+        "zh": "被丢弃的交易",
+        "ja": "ドロップされたトランザクション",
+        "ko": "드롭된 거래",
+        "fr": "Transaction abandonnée",
+        "de": "Verworfene Transaktion",
+        "es": "Transacción descartada",
+        "it": "Transazione scartata",
+        "pt": "Transação descartada",
+        "ru": "Отклоненная транзакция"
+      },
+      "description": "A transaction that was not mined and confirmed on the blockchain, and subsequently has been dropped from the transaction queue"
+    },
+    {
+      "source": "EIP-1559",
+      "target": {
+        "zh": "EIP-1559",
+        "ja": "EIP-1559",
+        "ko": "EIP-1559",
+        "fr": "EIP-1559",
+        "de": "EIP-1559",
+        "es": "EIP-1559",
+        "it": "EIP-1559",
+        "pt": "EIP-1559",
+        "ru": "EIP-1559"
+      },
+      "description": "Ethereum Improvement Proposal 1559 - introduced a Base Fee which is paid by users and is eventually burned"
+    },
+    {
+      "source": "EOA Transaction",
+      "target": {
+        "zh": "外部账户交易",
+        "ja": "EOAトランザクション",
+        "ko": "EOA 거래",
+        "fr": "Transaction EOA",
+        "de": "EOA-Transaktion",
+        "es": "Transacción EOA",
+        "it": "Transazione EOA",
+        "pt": "Transação EOA",
+        "ru": "Транзакция EOA"
+      },
+      "description": "A transaction between one or more externally owned accounts (individual users in the Ethereum network)"
+    },
+    {
+      "source": "Ethereum",
+      "target": {
+        "zh": "以太坊",
+        "ja": "イーサリアム",
+        "ko": "이더리움",
+        "fr": "Ethereum",
+        "de": "Ethereum",
+        "es": "Ethereum",
+        "it": "Ethereum",
+        "pt": "Ethereum",
+        "ru": "Эфириум"
+      },
+      "description": "A decentralized, open-source blockchain network that was launched in 2015"
+    },
+    {
+      "source": "Ethereum 2.0",
+      "target": {
+        "zh": "以太坊 2.0",
+        "ja": "イーサリアム2.0",
+        "ko": "이더리움 2.0",
+        "fr": "Ethereum 2.0",
+        "de": "Ethereum 2.0",
+        "es": "Ethereum 2.0",
+        "it": "Ethereum 2.0",
+        "pt": "Ethereum 2.0",
+        "ru": "Эфириум 2.0"
+      },
+      "description": "A deprecated term for the consensus layer of Ethereum as part of its migration to Proof-of-Stake"
+    },
+    {
+      "source": "Ethereum Virtual Machine",
+      "target": {
+        "zh": "以太坊虚拟机",
+        "ja": "イーサリアム仮想マシン",
+        "ko": "이더리움 가상 머신",
+        "fr": "Machine virtuelle Ethereum",
+        "de": "Ethereum-Virtualmaschine",
+        "es": "Máquina virtual de Ethereum",
+        "it": "Macchina virtuale Ethereum",
+        "pt": "Máquina virtual Ethereum",
+        "ru": "Виртуальная машина Ethereum"
+      },
+      "abbreviation": "EVM",
+      "description": "A software application that blockchain developers use to deploy decentralized applications on the Ethereum blockchain"
+    },
+    {
+      "source": "Failed Transaction",
+      "target": {
+        "zh": "失败交易",
+        "ja": "失敗したトランザクション",
+        "ko": "실패한 거래",
+        "fr": "Transaction échouée",
+        "de": "Fehlgeschlagene Transaktion",
+        "es": "Transacción fallida",
+        "it": "Transazione fallita",
+        "pt": "Transação falhada",
+        "ru": "Неудачная транзакция"
+      },
+      "description": "A transaction on the Ethereum blockchain that does not succeed, cannot be reversed, canceled, or refunded"
+    },
+    {
+      "source": "Full Nodes",
+      "target": {
+        "zh": "全节点",
+        "ja": "フルノード",
+        "ko": "풀 노드",
+        "fr": "Nœuds complets",
+        "de": "Vollständige Knoten",
+        "es": "Nodos completos",
+        "it": "Nodi completi",
+        "pt": "Nós completos",
+        "ru": "Полные узлы"
+      },
+      "description": "Any computer or server that downloads the entire Ethereum blockchain, address states, and validates new blocks"
+    },
+    {
+      "source": "Front-running",
+      "target": {
+        "zh": "抢跑",
+        "ja": "フロントランニング",
+        "ko": "프론트러닝",
+        "fr": "Front-running",
+        "de": "Front-Running",
+        "es": "Front-running",
+        "it": "Front-running",
+        "pt": "Front-running",
+        "ru": "Опережение"
+      },
+      "description": "The process of inserting transactions before a subsequent transaction with the sole intent of making a profit"
+    },
+    {
+      "source": "Gas",
+      "target": {
+        "zh": "Gas",
+        "ja": "ガス",
+        "ko": "가스",
+        "fr": "Gaz",
+        "de": "Gas",
+        "es": "Gas",
+        "it": "Gas",
+        "pt": "Gas",
+        "ru": "Газ"
+      },
+      "description": "A unit of measurement that represents the computational effort required to complete a transaction"
+    },
+    {
+      "source": "Gas Limit",
+      "target": {
+        "zh": "Gas 限制",
+        "ja": "ガス制限",
+        "ko": "가스 한도",
+        "fr": "Limite de gaz",
+        "de": "Gaslimit",
+        "es": "Límite de gas",
+        "it": "Limite di gas",
+        "pt": "Limite de gas",
+        "ru": "Лимит газа"
+      },
+      "description": "The maximum amount of gas that a user is willing to spend on a transaction"
+    },
+    {
+      "source": "Gas Price",
+      "target": {
+        "zh": "Gas 价格",
+        "ja": "ガス価格",
+        "ko": "가스 가격",
+        "fr": "Prix du gaz",
+        "de": "Gaspreis",
+        "es": "Precio del gas",
+        "it": "Prezzo del gas",
+        "pt": "Preço do gas",
+        "ru": "Цена газа"
+      },
+      "description": "The amount of Ether a user is willing to pay per unit of gas"
+    },
+    {
+      "source": "Gas War",
+      "target": {
+        "zh": "Gas 战争",
+        "ja": "ガス戦争",
+        "ko": "가스 전쟁",
+        "fr": "Guerre du gaz",
+        "de": "Gaskrieg",
+        "es": "Guerra del gas",
+        "it": "Guerra del gas",
+        "pt": "Guerra do gas",
+        "ru": "Газовая война"
+      },
+      "description": "A situation where multiple users compete to have their transactions included in the next block by increasing their gas prices"
+    },
+    {
+      "source": "Genesis Block",
+      "target": {
+        "zh": "创世区块",
+        "ja": "ジェネシスブロック",
+        "ko": "제네시스 블록",
+        "fr": "Bloc Genesis",
+        "de": "Genesis-Block",
+        "es": "Bloque Génesis",
+        "it": "Blocco Genesis",
+        "pt": "Bloco Gênesis",
+        "ru": "Блок Genesis"
+      },
+      "description": "The first block in a blockchain"
+    },
+    {
+      "source": "Hard Fork",
+      "target": {
+        "zh": "硬分叉",
+        "ja": "ハードフォーク",
+        "ko": "하드 포크",
+        "fr": "Fourche dure",
+        "de": "Hard Fork",
+        "es": "Bifurcación dura",
+        "it": "Hard fork",
+        "pt": "Hard fork",
+        "ru": "Хардфорк"
+      },
+      "description": "A permanent divergence in the blockchain, typically resulting from a change in the protocol"
+    },
+    {
+      "source": "Hash",
+      "target": {
+        "zh": "哈希",
+        "ja": "ハッシュ",
+        "ko": "해시",
+        "fr": "Hachage",
+        "de": "Hash",
+        "es": "Hash",
+        "it": "Hash",
+        "pt": "Hash",
+        "ru": "Хеш"
+      },
+      "description": "A function that converts an input of arbitrary length into an output of fixed length"
+    },
+    {
+      "source": "Honeypot",
+      "target": {
+        "zh": "蜜罐",
+        "ja": "ハニーポット",
+        "ko": "허니팟",
+        "fr": "Pot de miel",
+        "de": "Honeypot",
+        "es": "Honeypot",
+        "it": "Honeypot",
+        "pt": "Honeypot",
+        "ru": "Ловушка"
+      },
+      "description": "A smart contract that appears to have a vulnerability but is actually designed to trap attackers"
+    },
+    {
+      "source": "Hot Wallet",
+      "target": {
+        "zh": "热钱包",
+        "ja": "ホットウォレット",
+        "ko": "핫 월렛",
+        "fr": "Portefeuille chaud",
+        "de": "Hot Wallet",
+        "es": "Cartera caliente",
+        "it": "Portafoglio caldo",
+        "pt": "Carteira quente",
+        "ru": "Горячий кошелек"
+      },
+      "description": "A cryptocurrency wallet that is connected to the internet"
+    },
+    {
+      "source": "Immutable",
+      "target": {
+        "zh": "不可变",
+        "ja": "不変",
+        "ko": "불변",
+        "fr": "Immuable",
+        "de": "Unveränderlich",
+        "es": "Inmutable",
+        "it": "Immutabile",
+        "pt": "Imutável",
+        "ru": "Неизменяемый"
+      },
+      "description": "Something that cannot be changed or altered once it has been created"
+    },
+    {
+      "source": "Initial Coin Offering",
+      "target": {
+        "zh": "首次代币发行",
+        "ja": "イニシャルコインオファリング",
+        "ko": "초기 코인 공개",
+        "fr": "Offre initiale de pièces",
+        "de": "Erstes Münzangebot",
+        "es": "Oferta inicial de monedas",
+        "it": "Offerta iniziale di monete",
+        "pt": "Oferta inicial de moedas",
+        "ru": "Первичное предложение монет"
+      },
+      "abbreviation": "ICO",
+      "description": "A fundraising method in which new projects sell their underlying crypto tokens in exchange for bitcoin or ether"
+    },
+    {
+      "source": "Layer 2",
+      "target": {
+        "zh": "第二层",
+        "ja": "レイヤー2",
+        "ko": "레이어 2",
+        "fr": "Couche 2",
+        "de": "Layer 2",
+        "es": "Capa 2",
+        "it": "Livello 2",
+        "pt": "Camada 2",
+        "ru": "Слой 2"
+      },
+      "abbreviation": "L2",
+      "description": "A scaling solution that processes transactions off the main blockchain"
+    },
+    {
+      "source": "Liquidity Pool",
+      "target": {
+        "zh": "流动性池",
+        "ja": "流動性プール",
+        "ko": "유동성 풀",
+        "fr": "Pool de liquidité",
+        "de": "Liquiditätspool",
+        "es": "Pool de liquidez",
+        "it": "Pool di liquidità",
+        "pt": "Pool de liquidez",
+        "ru": "Пул ликвидности"
+      },
+      "description": "A collection of funds locked in a smart contract, used to facilitate trading"
+    },
+    {
+      "source": "Mainnet",
+      "target": {
+        "zh": "主网",
+        "ja": "メインネット",
+        "ko": "메인넷",
+        "fr": "Réseau principal",
+        "de": "Hauptnetz",
+        "es": "Red principal",
+        "it": "Rete principale",
+        "pt": "Rede principal",
+        "ru": "Основная сеть"
+      },
+      "description": "The primary blockchain network where real transactions take place"
+    },
+    {
+      "source": "MEV",
+      "target": {
+        "zh": "最大可提取价值",
+        "ja": "最大抽出可能価値",
+        "ko": "최대 추출 가능 가치",
+        "fr": "Valeur extractible maximale",
+        "de": "Maximaler extrahierbarer Wert",
+        "es": "Valor extraíble máximo",
+        "it": "Valore estraibile massimo",
+        "pt": "Valor extraível máximo",
+        "ru": "Максимальная извлекаемая стоимость"
+      },
+      "abbreviation": "MEV",
+      "description": "Maximal Extractable Value - the maximum value that can be extracted from block production in excess of the standard block reward"
+    },
+    {
+      "source": "Mempool",
+      "target": {
+        "zh": "内存池",
+        "ja": "メムプール",
+        "ko": "멤풀",
+        "fr": "Mempool",
+        "de": "Mempool",
+        "es": "Mempool",
+        "it": "Mempool",
+        "pt": "Mempool",
+        "ru": "Мемпул"
+      },
+      "description": "A pool of pending transactions waiting to be confirmed on the blockchain"
+    },
+    {
+      "source": "Miner",
+      "target": {
+        "zh": "矿工",
+        "ja": "マイナー",
+        "ko": "마이너",
+        "fr": "Mineur",
+        "de": "Miner",
+        "es": "Minero",
+        "it": "Minatore",
+        "pt": "Minerador",
+        "ru": "Майнер"
+      },
+      "description": "A participant in the blockchain network who validates transactions and creates new blocks"
+    },
+    {
+      "source": "Mining",
+      "target": {
+        "zh": "挖矿",
+        "ja": "マイニング",
+        "ko": "마이닝",
+        "fr": "Minage",
+        "de": "Mining",
+        "es": "Minería",
+        "it": "Mining",
+        "pt": "Mineração",
+        "ru": "Майнинг"
+      },
+      "description": "The process of validating transactions and creating new blocks on a blockchain"
+    },
+    {
+      "source": "NFT",
+      "target": {
+        "zh": "非同质化代币",
+        "ja": "非代替性トークン",
+        "ko": "대체 불가능 토큰",
+        "fr": "Jeton non fongible",
+        "de": "Nicht-fungibler Token",
+        "es": "Token no fungible",
+        "it": "Token non fungibile",
+        "pt": "Token não fungível",
+        "ru": "Невзаимозаменяемый токен"
+      },
+      "abbreviation": "NFT",
+      "description": "Non-Fungible Token - a unique digital asset that represents ownership of a specific item"
+    },
+    {
+      "source": "Nonce",
+      "target": {
+        "zh": "随机数",
+        "ja": "ナンス",
+        "ko": "논스",
+        "fr": "Nonce",
+        "de": "Nonce",
+        "es": "Nonce",
+        "it": "Nonce",
+        "pt": "Nonce",
+        "ru": "Nonce"
+      },
+      "description": "A number used once in cryptographic communication"
+    },
+    {
+      "source": "Optimistic Rollup",
+      "target": {
+        "zh": "乐观汇总",
+        "ja": "オプティミスティックロールアップ",
+        "ko": "낙관적 롤업",
+        "fr": "Rollup optimiste",
+        "de": "Optimistisches Rollup",
+        "es": "Rollup optimista",
+        "it": "Rollup ottimistico",
+        "pt": "Rollup otimista",
+        "ru": "Оптимистичный роллап"
+      },
+      "description": "A layer 2 scaling solution that assumes transactions are valid unless proven otherwise"
+    },
+    {
+      "source": "Oracle",
+      "target": {
+        "zh": "预言机",
+        "ja": "オラクル",
+        "ko": "오라클",
+        "fr": "Oracle",
+        "de": "Oracle",
+        "es": "Oráculo",
+        "it": "Oracle",
+        "pt": "Oráculo",
+        "ru": "Оракул"
+      },
+      "description": "A service that provides external data to smart contracts"
+    },
+    {
+      "source": "Pending Transaction",
+      "target": {
+        "zh": "待处理交易",
+        "ja": "保留中のトランザクション",
+        "ko": "대기 중인 거래",
+        "fr": "Transaction en attente",
+        "de": "Ausstehende Transaktion",
+        "es": "Transacción pendiente",
+        "it": "Transazione in sospeso",
+        "pt": "Transação pendente",
+        "ru": "Ожидающая транзакция"
+      },
+      "description": "A transaction that has been submitted to the network but not yet confirmed"
+    },
+    {
+      "source": "Private Key",
+      "target": {
+        "zh": "私钥",
+        "ja": "秘密鍵",
+        "ko": "개인 키",
+        "fr": "Clé privée",
+        "de": "Privater Schlüssel",
+        "es": "Clave privada",
+        "it": "Chiave privata",
+        "pt": "Chave privada",
+        "ru": "Приватный ключ"
+      },
+      "description": "A secret number that allows you to spend cryptocurrency from a specific wallet"
+    },
+    {
+      "source": "Proof of Stake",
+      "target": {
+        "zh": "权益证明",
+        "ja": "プルーフオブステーク",
+        "ko": "지분 증명",
+        "fr": "Preuve d'enjeu",
+        "de": "Proof of Stake",
+        "es": "Prueba de participación",
+        "it": "Proof of Stake",
+        "pt": "Prova de participação",
+        "ru": "Доказательство доли"
+      },
+      "abbreviation": "PoS",
+      "description": "A consensus mechanism where validators are chosen based on the amount of cryptocurrency they hold"
+    },
+    {
+      "source": "Proof of Work",
+      "target": {
+        "zh": "工作量证明",
+        "ja": "プルーフオブワーク",
+        "ko": "작업 증명",
+        "fr": "Preuve de travail",
+        "de": "Proof of Work",
+        "es": "Prueba de trabajo",
+        "it": "Proof of Work",
+        "pt": "Prova de trabalho",
+        "ru": "Доказательство работы"
+      },
+      "abbreviation": "PoW",
+      "description": "A consensus mechanism where miners compete to solve complex mathematical problems"
+    },
+    {
+      "source": "Public Key",
+      "target": {
+        "zh": "公钥",
+        "ja": "公開鍵",
+        "ko": "공개 키",
+        "fr": "Clé publique",
+        "de": "Öffentlicher Schlüssel",
+        "es": "Clave pública",
+        "it": "Chiave pubblica",
+        "pt": "Chave pública",
+        "ru": "Публичный ключ"
+      },
+      "description": "A cryptographic key that can be shared publicly and is used to receive cryptocurrency"
+    },
+    {
+      "source": "Replacement Transaction",
+      "target": {
+        "zh": "替换交易",
+        "ja": "置換トランザクション",
+        "ko": "교체 거래",
+        "fr": "Transaction de remplacement",
+        "de": "Ersatztransaktion",
+        "es": "Transacción de reemplazo",
+        "it": "Transazione di sostituzione",
+        "pt": "Transação de substituição",
+        "ru": "Заменяющая транзакция"
+      },
+      "description": "A new transaction that replaces a pending transaction with the same nonce"
+    },
+    {
+      "source": "Rollup",
+      "target": {
+        "zh": "汇总",
+        "ja": "ロールアップ",
+        "ko": "롤업",
+        "fr": "Rollup",
+        "de": "Rollup",
+        "es": "Rollup",
+        "it": "Rollup",
+        "pt": "Rollup",
+        "ru": "Роллап"
+      },
+      "description": "A layer 2 scaling solution that bundles multiple transactions into a single transaction"
+    },
+    {
+      "source": "Smart Contract",
+      "target": {
+        "zh": "智能合约",
+        "ja": "スマートコントラクト",
+        "ko": "스마트 컨트랙트",
+        "fr": "Contrat intelligent",
+        "de": "Smart Contract",
+        "es": "Contrato inteligente",
+        "it": "Contratto intelligente",
+        "pt": "Contrato inteligente",
+        "ru": "Смарт-контракт"
+      },
+      "description": "Self-executing contracts with the terms of the agreement directly written into code"
+    },
+    {
+      "source": "Speed Up Transactions",
+      "target": {
+        "zh": "加速交易",
+        "ja": "トランザクションの高速化",
+        "ko": "거래 가속",
+        "fr": "Accélérer les transactions",
+        "de": "Transaktionen beschleunigen",
+        "es": "Acelerar transacciones",
+        "it": "Accelerare transazioni",
+        "pt": "Acelerar transações",
+        "ru": "Ускорить транзакции"
+      },
+      "description": "A type of replacement transaction that attempts to overwrite a currently pending transaction"
+    },
+    {
+      "source": "State Channel",
+      "target": {
+        "zh": "状态通道",
+        "ja": "ステートチャネル",
+        "ko": "상태 채널",
+        "fr": "Canal d'état",
+        "de": "Statuskanal",
+        "es": "Canal de estado",
+        "it": "Canale di stato",
+        "pt": "Canal de estado",
+        "ru": "Канал состояния"
+      },
+      "description": "A layer 2 scaling solution that allows off-chain transactions between users"
+    },
+    {
+      "source": "Stuck Transactions",
+      "target": {
+        "zh": "卡住的交易",
+        "ja": "詰まったトランザクション",
+        "ko": "막힌 거래",
+        "fr": "Transactions bloquées",
+        "de": "Steckengebliebene Transaktionen",
+        "es": "Transacciones atascadas",
+        "it": "Transazioni bloccate",
+        "pt": "Transações travadas",
+        "ru": "Застрявшие транзакции"
+      },
+      "description": "Transactions that cannot be mined, often caused by nonce gaps"
+    },
+    {
+      "source": "Testnet",
+      "target": {
+        "zh": "测试网",
+        "ja": "テストネット",
+        "ko": "테스트넷",
+        "fr": "Réseau de test",
+        "de": "Testnetz",
+        "es": "Red de prueba",
+        "it": "Rete di test",
+        "pt": "Rede de teste",
+        "ru": "Тестовая сеть"
+      },
+      "description": "A blockchain network used for testing protocol upgrades and smart contracts before deploying them on mainnet"
+    },
+    {
+      "source": "Tip",
+      "target": {
+        "zh": "小费",
+        "ja": "チップ",
+        "ko": "팁",
+        "fr": "Pourboire",
+        "de": "Trinkgeld",
+        "es": "Propina",
+        "it": "Mancia",
+        "pt": "Gorjeta",
+        "ru": "Чаевые"
+      },
+      "description": "An optional additional fee paid directly to miners to incentivize them to include a transaction in the next block"
+    },
+    {
+      "source": "Tokenomics",
+      "target": {
+        "zh": "代币经济学",
+        "ja": "トークノミクス",
+        "ko": "토크노믹스",
+        "fr": "Tokenomics",
+        "de": "Tokenomics",
+        "es": "Tokenomics",
+        "it": "Tokenomics",
+        "pt": "Tokenomics",
+        "ru": "Токеномика"
+      },
+      "description": "All aspects of a cryptocurrency that can impact the price such as total supply, vesting, and utility"
+    },
+    {
+      "source": "Total Value Locked",
+      "target": {
+        "zh": "总锁定价值",
+        "ja": "総ロック価値",
+        "ko": "총 잠금 가치",
+        "fr": "Valeur totale verrouillée",
+        "de": "Gesamtwert gesperrt",
+        "es": "Valor total bloqueado",
+        "it": "Valore totale bloccato",
+        "pt": "Valor total bloqueado",
+        "ru": "Общая заблокированная стоимость"
+      },
+      "abbreviation": "TVL",
+      "description": "The total value of assets locked in a specific protocol"
+    },
+    {
+      "source": "Transaction Event Stream",
+      "target": {
+        "zh": "交易事件流",
+        "ja": "トランザクションイベントストリーム",
+        "ko": "거래 이벤트 스트림",
+        "fr": "Flux d'événements de transaction",
+        "de": "Transaktionsereignis-Stream",
+        "es": "Flujo de eventos de transacción",
+        "it": "Flusso di eventi transazione",
+        "pt": "Fluxo de eventos de transação",
+        "ru": "Поток событий транзакций"
+      },
+      "description": "A real-time stream of transaction events happening in the mempool"
+    },
+    {
+      "source": "Transaction Settlement",
+      "target": {
+        "zh": "交易结算",
+        "ja": "トランザクション決済",
+        "ko": "거래 결제",
+        "fr": "Règlement de transaction",
+        "de": "Transaktionsabwicklung",
+        "es": "Liquidación de transacción",
+        "it": "Regolamento transazione",
+        "pt": "Liquidação de transação",
+        "ru": "Расчет транзакции"
+      },
+      "description": "When a transaction is accepted and hashed by a miner, it is considered settled"
+    },
+    {
+      "source": "Transaction Simulation",
+      "target": {
+        "zh": "交易模拟",
+        "ja": "トランザクションシミュレーション",
+        "ko": "거래 시뮬레이션",
+        "fr": "Simulation de transaction",
+        "de": "Transaktionssimulation",
+        "es": "Simulación de transacción",
+        "it": "Simulazione transazione",
+        "pt": "Simulação de transação",
+        "ru": "Симуляция транзакции"
+      },
+      "description": "Simulating transactions that would execute if published on-chain"
+    },
+    {
+      "source": "Transaction Status",
+      "target": {
+        "zh": "交易状态",
+        "ja": "トランザクションステータス",
+        "ko": "거래 상태",
+        "fr": "Statut de transaction",
+        "de": "Transaktionsstatus",
+        "es": "Estado de transacción",
+        "it": "Stato transazione",
+        "pt": "Status da transação",
+        "ru": "Статус транзакции"
+      },
+      "description": "The current state of a transaction in the blockchain (confirmed, failed, dropped, stuck)"
+    },
+    {
+      "source": "Type 0 Transactions",
+      "target": {
+        "zh": "类型 0 交易",
+        "ja": "タイプ0トランザクション",
+        "ko": "타입 0 거래",
+        "fr": "Transactions de type 0",
+        "de": "Transaktionen Typ 0",
+        "es": "Transacciones tipo 0",
+        "it": "Transazioni tipo 0",
+        "pt": "Transações tipo 0",
+        "ru": "Транзакции типа 0"
+      },
+      "description": "Legacy transaction types from before the London hard fork in August 2021"
+    },
+    {
+      "source": "Type 2 Transactions",
+      "target": {
+        "zh": "类型 2 交易",
+        "ja": "タイプ2トランザクション",
+        "ko": "타입 2 거래",
+        "fr": "Transactions de type 2",
+        "de": "Transaktionen Typ 2",
+        "es": "Transacciones tipo 2",
+        "it": "Transazioni tipo 2",
+        "pt": "Transações tipo 2",
+        "ru": "Транзакции типа 2"
+      },
+      "description": "Transactions based on EIP-1559 upgrades, including Base Fee, Max Priority Fee, and Max Fee Per Gas fields"
+    },
+    {
+      "source": "UX",
+      "target": {
+        "zh": "用户体验",
+        "ja": "ユーザーエクスペリエンス",
+        "ko": "사용자 경험",
+        "fr": "Expérience utilisateur",
+        "de": "Benutzererfahrung",
+        "es": "Experiencia de usuario",
+        "it": "Esperienza utente",
+        "pt": "Experiência do usuário",
+        "ru": "Пользовательский опыт"
+      },
+      "abbreviation": "UX",
+      "description": "User Experience - the design discipline for optimizing how users interact with and perceive an application"
+    },
+    {
+      "source": "Wallet",
+      "target": {
+        "zh": "钱包",
+        "ja": "ウォレット",
+        "ko": "지갑",
+        "fr": "Portefeuille",
+        "de": "Wallet",
+        "es": "Cartera",
+        "it": "Portafoglio",
+        "pt": "Carteira",
+        "ru": "Кошелек"
+      },
+      "description": "Stores a user's private keys and allows them to transact digital assets and connect with decentralized applications"
+    },
+    {
+      "source": "Web3",
+      "target": {
+        "zh": "Web3",
+        "ja": "Web3",
+        "ko": "Web3",
+        "fr": "Web3",
+        "de": "Web3",
+        "es": "Web3",
+        "it": "Web3",
+        "pt": "Web3",
+        "ru": "Web3"
+      },
+      "description": "The current evolution of the internet characterized by decentralization and digital ownership"
+    },
+    {
+      "source": "Wrapped Ethereum",
+      "target": {
+        "zh": "包装以太坊",
+        "ja": "ラップされたイーサリアム",
+        "ko": "래핑된 이더리움",
+        "fr": "Ethereum enveloppé",
+        "de": "Eingepacktes Ethereum",
+        "es": "Ethereum envuelto",
+        "it": "Ethereum avvolto",
+        "pt": "Ethereum envolvido",
+        "ru": "Обернутый Ethereum"
+      },
+      "abbreviation": "wETH",
+      "description": "A tokenized version of Ether on the ERC-20 standard that can always be redeemed 1:1 for ETH"
+    },
+    {
+      "source": "Wrapped Token",
+      "target": {
+        "zh": "包装代币",
+        "ja": "ラップされたトークン",
+        "ko": "래핑된 토큰",
+        "fr": "Jeton enveloppé",
+        "de": "Eingepackter Token",
+        "es": "Token envuelto",
+        "it": "Token avvolto",
+        "pt": "Token envolvido",
+        "ru": "Обернутый токен"
+      },
+      "description": "Tokens that allow users to transact with cryptocurrencies via blockchains outside their original design scope"
+    },
+    {
+      "source": "Wei",
+      "target": {
+        "zh": "Wei",
+        "ja": "Wei",
+        "ko": "Wei",
+        "fr": "Wei",
+        "de": "Wei",
+        "es": "Wei",
+        "it": "Wei",
+        "pt": "Wei",
+        "ru": "Wei"
+      },
+      "description": "The smallest denomination of ETH (1 ETH = 1,000,000,000,000,000,000 Wei)"
+    },
+    {
+      "source": "xDai Chain",
+      "target": {
+        "zh": "xDai 链",
+        "ja": "xDaiチェーン",
+        "ko": "xDai 체인",
+        "fr": "Chaîne xDai",
+        "de": "xDai-Kette",
+        "es": "Cadena xDai",
+        "it": "Catena xDai",
+        "pt": "Cadeia xDai",
+        "ru": "Цепь xDai"
+      },
+      "description": "A proof-of-stake Ethereum sidechain that offers faster and cheaper transactions compared to Ethereum"
+    },
+    {
+      "source": "Zero-Knowledge Proof",
+      "target": {
+        "zh": "零知识证明",
+        "ja": "ゼロ知識証明",
+        "ko": "영지식 증명",
+        "fr": "Preuve à divulgation nulle",
+        "de": "Zero-Knowledge-Beweis",
+        "es": "Prueba de conocimiento cero",
+        "it": "Prova a conoscenza zero",
+        "pt": "Prova de conhecimento zero",
+        "ru": "Доказательство с нулевым разглашением"
+      },
+      "description": "A method of verification where a prover shows possession of secretive knowledge without revealing the sensitive information"
+    },
+    {
+      "source": "ZK-Rollup",
+      "target": {
+        "zh": "ZK 汇总",
+        "ja": "ZKロールアップ",
+        "ko": "ZK 롤업",
+        "fr": "Rollup ZK",
+        "de": "ZK-Rollup",
+        "es": "Rollup ZK",
+        "it": "Rollup ZK",
+        "pt": "Rollup ZK",
+        "ru": "ZK-роллап"
+      },
+      "description": "An Ethereum layer 2 scaling solution that bundles transactions off-chain into a single cryptographic proof"
+    },
+    {
+      "source": "zk-SNARK",
+      "target": {
+        "zh": "zk-SNARK",
+        "ja": "zk-SNARK",
+        "ko": "zk-SNARK",
+        "fr": "zk-SNARK",
+        "de": "zk-SNARK",
+        "es": "zk-SNARK",
+        "it": "zk-SNARK",
+        "pt": "zk-SNARK",
+        "ru": "zk-SNARK"
+      },
+      "description": "Zero-Knowledge Succinct Non-interactive Arguments of Knowledge - a form of cryptographic proof that maintains privacy"
+    },
+    {
+      "source": "zkSync",
+      "target": {
+        "zh": "zkSync",
+        "ja": "zkSync",
+        "ko": "zkSync",
+        "fr": "zkSync",
+        "de": "zkSync",
+        "es": "zkSync",
+        "it": "zkSync",
+        "pt": "zkSync",
+        "ru": "zkSync"
+      },
+      "description": "An Ethereum layer 2 scaling solution that utilizes ZK rollups to offer lower gas fees and faster transaction finality"
+    }
+  ]
+}
