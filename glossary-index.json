@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-27T00:00:00Z",
+  "baseUrl": "https://sid12333.github.io/wordplay-glossary",
+  "industries": [
+    {
+      "id": "it",
+      "name": {
+        "en": "Information Technology",
+        "zh": "信息技术"
+      },
+      "file": "industries/it.json",
+      "termCount": 10
+    },
+    {
+      "id": "finance",
+      "name": {
+        "en": "Finance & Banking",
+        "zh": "金融与银行"
+      },
+      "file": "industries/finance.json",
+      "termCount": 8
+    },
+    {
+      "id": "healthcare",
+      "name": {
+        "en": "Healthcare & Medical",
+        "zh": "医疗健康"
+      },
+      "file": "industries/healthcare.json",
+      "termCount": 7
+    },
+    {
+      "id": "legal",
+      "name": {
+        "en": "Legal",
+        "zh": "法律"
+      },
+      "file": "industries/legal.json",
+      "termCount": 7
+    },
+    {
+      "id": "marketing",
+      "name": {
+        "en": "Marketing & Advertising",
+        "zh": "市场营销与广告"
+      },
+      "file": "industries/marketing.json",
+      "termCount": 7
+    },
+    {
+      "id": "ecommerce",
+      "name": {
+        "en": "E-commerce",
+        "zh": "电子商务"
+      },
+      "file": "industries/ecommerce.json",
+      "termCount": 7
+    },
+    {
+      "id": "education",
+      "name": {
+        "en": "Education & E-learning",
+        "zh": "教育与在线学习"
+      },
+      "file": "industries/education.json",
+      "termCount": 6
+    },
+    {
+      "id": "gaming",
+      "name": {
+        "en": "Gaming",
+        "zh": "游戏"
+      },
+      "file": "industries/gaming.json",
+      "termCount": 6
+    }
+  ],
+  "totalTerms": 58
+}
+

@@ -1,0 +1,41 @@
+{
+  "id": "legal",
+  "name": {
+    "en": "Legal",
+    "zh": "法律"
+  },
+  "terms": [
+    {
+      "source": "Power of Attorney",
+      "target": "授权委托书"
+    },
+    {
+      "source": "Non-Disclosure Agreement",
+      "target": "保密协议",
+      "abbreviation": "NDA"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "知识产权",
+      "abbreviation": "IP"
+    },
+    {
+      "source": "Terms of Service",
+      "target": "服务条款",
+      "abbreviation": "ToS"
+    },
+    {
+      "source": "Liability",
+      "target": "责任"
+    },
+    {
+      "source": "Litigation",
+      "target": "诉讼"
+    },
+    {
+      "source": "Arbitration",
+      "target": "仲裁"
+    }
+  ]
+}
+

@@ -1,0 +1,41 @@
+{
+  "id": "healthcare",
+  "name": {
+    "en": "Healthcare & Medical",
+    "zh": "医疗健康"
+  },
+  "terms": [
+    {
+      "source": "Electronic Health Record",
+      "target": "电子健康记录",
+      "abbreviation": "EHR"
+    },
+    {
+      "source": "Magnetic Resonance Imaging",
+      "target": "磁共振成像",
+      "abbreviation": "MRI"
+    },
+    {
+      "source": "Computed Tomography",
+      "target": "计算机断层扫描",
+      "abbreviation": "CT"
+    },
+    {
+      "source": "Telemedicine",
+      "target": "远程医疗"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "临床试验"
+    },
+    {
+      "source": "Medical Device",
+      "target": "医疗器械"
+    },
+    {
+      "source": "Pharmaceutical",
+      "target": "制药"
+    }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "id": "education",
+  "name": {
+    "en": "Education & E-learning",
+    "zh": "教育与在线学习"
+  },
+  "terms": [
+    {
+      "source": "Learning Management System",
+      "target": "学习管理系统",
+      "abbreviation": "LMS"
+    },
+    {
+      "source": "Massive Open Online Course",
+      "target": "大规模开放在线课程",
+      "abbreviation": "MOOC"
+    },
+    {
+      "source": "Certificate",
+      "target": "证书"
+    },
+    {
+      "source": "Curriculum",
+      "target": "课程"
+    },
+    {
+      "source": "Assessment",
+      "target": "评估"
+    },
+    {
+      "source": "Gamification",
+      "target": "游戏化"
+    }
+  ]
+}
+

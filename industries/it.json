@@ -1,0 +1,55 @@
+{
+  "id": "it",
+  "name": {
+    "en": "Information Technology",
+    "zh": "信息技术"
+  },
+  "terms": [
+    {
+      "source": "Application Programming Interface",
+      "target": "应用程序编程接口",
+      "abbreviation": "API"
+    },
+    {
+      "source": "Software Development Kit",
+      "target": "软件开发工具包",
+      "abbreviation": "SDK"
+    },
+    {
+      "source": "User Interface",
+      "target": "用户界面",
+      "abbreviation": "UI"
+    },
+    {
+      "source": "User Experience",
+      "target": "用户体验",
+      "abbreviation": "UX"
+    },
+    {
+      "source": "Cloud Computing",
+      "target": "云计算"
+    },
+    {
+      "source": "Machine Learning",
+      "target": "机器学习"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "人工智能",
+      "abbreviation": "AI"
+    },
+    {
+      "source": "Big Data",
+      "target": "大数据"
+    },
+    {
+      "source": "Cybersecurity",
+      "target": "网络安全"
+    },
+    {
+      "source": "Blockchain",
+      "target": "区块链"
+    }
+  ]
+}
+
